@@ -47,12 +47,13 @@
 * Adobe Flash Player
 * Skype
 * Yed
+* [TeXmacs](http://texmacs.org/tmweb/home/welcome.en.html)
+* [Sublime Text](http://www.sublimetext.com)
+* [Atom](https://atom.io)
+* Balsamiq Mockups
 * Mendeley
 * OpenAFS
-* Sublime Text
-* Atom
-* Balsamiq Mockups
-* Texmacs
+* MacTex
 * TextMate
 * Mou
 
