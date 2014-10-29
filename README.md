@@ -17,4 +17,5 @@
 ## [Homebrew](http://brew.sh)
 * ack
 * bash
+* cmake
 * git
