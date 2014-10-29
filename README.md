@@ -9,6 +9,11 @@
 
 ## vimrc
 
+## iTerm
+### colorschemes
+* [Grass](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Grass.itermcolors)
+* [Novel](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Novel.itermcolors)
+
 ## [Homebrew](http://brew.sh)
 * ack
 * bash
