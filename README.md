@@ -47,7 +47,7 @@
 * Adobe Flash Player
 * Skype
 * Yed
-* [TeXmacs](http://texmacs.org/tmweb/home/welcome.en.html)
+* [TeXmacs](https://yinwang0.wordpress.com/2012/10/13/texmacs/)
 * [Sublime Text](http://www.sublimetext.com)
 * [Atom](https://atom.io)
 * Balsamiq Mockups
