@@ -1,11 +1,16 @@
 # profiles
 
 
-## bashrc
+## bash conf
+* _bash_profile
+* _bash_rc
+  * git
+    + [git-prompt.sh](https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh)
+    + [git-completion.bash](https://github.com/git/git/blob/master/contrib/completion/git-completion.bash)
+* _bash_local
+* _bash_alias
+* _reviewboardrc
 
-### git
-+ [git-prompt.sh](https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh)
-+ [git-completion.bash](https://github.com/git/git/blob/master/contrib/completion/git-completion.bash)
 
 ## vimrc
 
@@ -19,3 +24,24 @@
 * bash
 * cmake
 * git
+* maven
+
+## Software
+* Dropbox
+* 1password
+* cpplint
+* Balsamiq Mockups
+* Cisco AnyConnect
+* Chrome
+* Firefox
+* Mendeley
+* Mou
+* OpenAFS
+* Skype
+* Sublime Text
+* Atom
+* Texmacs
+* TextMate
+* Vagrant
+* VirtualBox
+* Yed
