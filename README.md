@@ -14,8 +14,8 @@
 
 ## vimrc
 
-## iTerm
-### colorschemes
+## [iTerm](http://iterm2.com)
+### [colorschemes](http://iterm2colorschemes.com)
 * [Grass](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Grass.itermcolors)
 * [Novel](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Novel.itermcolors)
 
