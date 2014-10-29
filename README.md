@@ -10,3 +10,6 @@
 ## vimrc
 
 ## [Homebrew](http://brew.sh)
+* ack
+* bash
+* git
