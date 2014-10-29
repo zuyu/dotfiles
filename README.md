@@ -23,7 +23,7 @@
 * ack
 * bash
 * cmake
-* [homebrew cask](http://caskroom.io)
+* [brew-cask](http://caskroom.io)
 
   ```
    brew install caskroom/cask/brew-cask
@@ -32,6 +32,7 @@
    ```
    brew cask install google-chrome
    ```
+  * Vagrant
 * git
 * maven
 
@@ -53,7 +54,6 @@
 * Balsamiq Mockups
 * Texmacs
 * TextMate
-* Vagrant
 * Mou
 
 ## Misc conf
