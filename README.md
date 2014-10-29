@@ -34,6 +34,7 @@
 * Cisco AnyConnect
 * Chrome
 * Firefox
+* Java
 * Mendeley
 * Mou
 * OpenAFS
