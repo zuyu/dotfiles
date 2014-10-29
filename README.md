@@ -47,3 +47,9 @@
 * Vagrant
 * VirtualBox
 * Yed
+
+## Misc conf
+* hostname
+```
+sudo hostname -s Sukhavati
+```
