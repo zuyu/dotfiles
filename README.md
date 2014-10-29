@@ -23,30 +23,38 @@
 * ack
 * bash
 * cmake
+* [homebrew cask](http://caskroom.io)
+
+  ```
+   brew install caskroom/cask/brew-cask
+  ```
+  * Chrome
+   ```
+   brew cask install google-chrome
+   ```
 * git
 * maven
 
 ## Software
 * Dropbox
 * 1password
-* cpplint
-* Balsamiq Mockups
-* Cisco AnyConnect
-* Chrome
-* Firefox
+* [SMART Utility](http://www.volitans-software.com/smart_utility.php)
+* [cpplint](http://google-styleguide.googlecode.com/svn/trunk/cpplint/cpplint.py)
+* VirtualBox
+* Cisco AnyConnect VPN Client
 * Java
 * Adobe Flash Player
-* Mendeley
-* Mou
-* OpenAFS
 * Skype
+* Yed
+* Mendeley
+* OpenAFS
 * Sublime Text
 * Atom
+* Balsamiq Mockups
 * Texmacs
 * TextMate
 * Vagrant
-* VirtualBox
-* Yed
+* Mou
 
 ## Misc conf
 * hostname
