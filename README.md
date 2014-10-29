@@ -35,6 +35,7 @@
 * Chrome
 * Firefox
 * Java
+* Adobe Flash Player
 * Mendeley
 * Mou
 * OpenAFS
