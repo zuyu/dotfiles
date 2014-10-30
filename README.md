@@ -57,6 +57,14 @@
 * TextMate
 * Mou
 
+## git conf
+```
+git config --global user.name "My Name"
+git config --global user.email me@host.com
+git config --global core.editor vim
+git config --list
+```
+
 ## Misc conf
 * hostname
 ```
