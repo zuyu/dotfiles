@@ -40,7 +40,7 @@
 * Dropbox
 * 1password
 * [SMART Utility](http://www.volitans-software.com/smart_utility.php)
-* [Karabiner, which could turn *caps lock* to **esc**](https://pqrs.org/osx/karabiner/index.html.en)
+* [Seil, which could turn *caps lock* to **esc**](https://pqrs.org/osx/karabiner/seil.html.en)
 * [cpplint](http://google-styleguide.googlecode.com/svn/trunk/cpplint/cpplint.py)
 * VirtualBox
 * Cisco AnyConnect VPN Client
