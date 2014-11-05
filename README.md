@@ -12,6 +12,14 @@
 * _reviewboardrc
 * ssh
   * [github](https://help.github.com/articles/generating-ssh-keys/)
+* git conf
+
+  ```
+  git config --global user.name "My Name"
+  git config --global user.email me@host.com
+  git config --global core.editor vim
+  git config --list
+  ```
 
 ## vimrc
 * [vimrc template](http://amix.dk/vim/vimrc.txt)
@@ -60,14 +68,6 @@
 * MacTex
 * TextMate
 * Mou
-
-## git conf
-```
-git config --global user.name "My Name"
-git config --global user.email me@host.com
-git config --global core.editor vim
-git config --list
-```
 
 ## Misc conf
 * hostname
