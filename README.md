@@ -11,12 +11,13 @@
 * _bash_alias
 * _reviewboardrc
 
+## ssh
+* [github](https://help.github.com/articles/generating-ssh-keys/)
 
 ## vimrc
 
 ## [iTerm](http://iterm2.com)
-### [colorschemes](http://iterm2colorschemes.com)
-* [Grass](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Grass.itermcolors)
+### [colorscheme](http://iterm2colorschemes.com)
 * [Novel](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Novel.itermcolors)
 
 ## [Homebrew](http://brew.sh)
@@ -48,6 +49,7 @@
 * Java
 * Adobe Flash Player
 * Skype
+* [OmniGraffle](https://www.omnigroup.com/omnigraffle)
 * Yed
 * [TeXmacs](https://yinwang0.wordpress.com/2012/10/13/texmacs/)
 * [Sublime Text](http://www.sublimetext.com)
