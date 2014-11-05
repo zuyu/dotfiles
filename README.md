@@ -14,6 +14,7 @@
   * [github](https://help.github.com/articles/generating-ssh-keys/)
 
 ## vimrc
+* [vimrc template](http://amix.dk/vim/vimrc.txt)
 
 ## [iTerm](http://iterm2.com)
 ### [colorscheme](http://iterm2colorschemes.com)
