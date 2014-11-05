@@ -35,6 +35,7 @@
   * Vagrant
 * git
 * maven
+* wget
 
 ## Software
 * Dropbox
