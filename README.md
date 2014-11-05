@@ -10,9 +10,8 @@
 * _bash_local
 * _bash_alias
 * _reviewboardrc
-
-## ssh
-* [github](https://help.github.com/articles/generating-ssh-keys/)
+* ssh
+  * [github](https://help.github.com/articles/generating-ssh-keys/)
 
 ## vimrc
 
@@ -68,7 +67,6 @@ git config --global user.email me@host.com
 git config --global core.editor vim
 git config --list
 ```
-* [Generate a SSH key using github](https://help.github.com/articles/generating-ssh-keys/)
 
 ## Misc conf
 * hostname
