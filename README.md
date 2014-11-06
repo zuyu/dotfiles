@@ -9,7 +9,7 @@
 * _bash_alias
 * _bash_local
 * _reviewboardrc
-* ssh
+* _ssh
   * [github](https://help.github.com/articles/generating-ssh-keys/)
 * git conf
 
