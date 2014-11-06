@@ -1,14 +1,13 @@
 # profiles
 
-
 ## bash conf
 * _bash_profile
 * _bash_rc
   * git
     + [git-prompt.sh](https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh)
     + [git-completion.bash](https://github.com/git/git/blob/master/contrib/completion/git-completion.bash)
-* _bash_local
 * _bash_alias
+* _bash_local
 * _reviewboardrc
 * ssh
   * [github](https://help.github.com/articles/generating-ssh-keys/)
@@ -22,7 +21,11 @@
   ```
 
 ## vimrc
-* [vimrc template](http://amix.dk/vim/vimrc.txt)
+* _vim_runtime
+  * [basic.vim](http://amix.dk/vim/vimrc.txt)
+  * extended.vim
+  * filetypes.vim
+  * local.vim
 
 ## [iTerm](http://iterm2.com)
 ### [colorscheme](http://iterm2colorschemes.com)

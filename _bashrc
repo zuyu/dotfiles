@@ -1,0 +1,38 @@
+#
+# default .bashrc
+#
+
+export PATH
+
+if [ "$PS1" ]; then
+  set -o ignoreeof # ignore ^D (^D Will not exit the shell)
+  set -o noclobber # Can't > to existing files
+  # set mail=/usr/spool/mail/$USER # What file to check for new mail
+  set -o notify # Report change in jobs' status
+
+  # export PS1="\u@\h:\W\$" # Set our prompt (man bash for more info)
+  # export PS1="[\u@\h] (\#)\$ " # Set our prompt (man bash for more info)
+  # the line below will generate a very colorful prompt for those who
+  # like such things
+  # export PS1="\[\033[01;39m\]\u@\h\[\033[01;34m\] \W \$ \[\033[00m\]"
+fi
+
+if [ -f ~/.git-prompt.sh ] && [ -f ~/.git-completion.bash ]; then
+  source ~/.git-prompt.sh
+  source ~/.git-completion.bash
+  export PS1='[\h \[\033[0;36m\]\W\[\033[0m\]$(__git_ps1 " \[\033[1;32m\](%s)\[\033[0m\]")]\$'
+fi
+
+export HISTCONTROL=erasedups:ignoreboth
+
+function mkdircd () { mkdir -p "$@" && eval cd "\"\$$#\""; }
+
+bind "set completion-ignore-case on"
+
+if [ -f ~/.bashrc.alias ]; then
+  . ~/.bashrc.alias
+fi
+
+if [ -f ~/.bashrc.local ]; then
+  . ~/.bashrc.local
+fi

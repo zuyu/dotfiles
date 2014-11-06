@@ -1,0 +1,7 @@
+GUESS_SUMMARY=True
+REVIEWBOARD_URL = "https://reviews.apache.org/"
+OPEN_BROWSER = True
+TARGET_GROUPS = "mesos"
+REPOSITORY = "git://git.apache.org/mesos.git"
+TRACKING_BRANCH = "origin/master"
+PARENT_BRANCH = "origin/master"
