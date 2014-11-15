@@ -47,6 +47,7 @@
   * Vagrant
 * git
 * maven
+* [osquery](http://osquery.io/)
 * wget
 
 ## Software
