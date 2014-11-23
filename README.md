@@ -19,6 +19,7 @@
   git config --global core.editor vim
   git config --list
   ```
+* [ghar](http://www.ifup.org/posts/ghar-managing-your-home-in-git/)
 
 ## vimrc
 * _vim_runtime
