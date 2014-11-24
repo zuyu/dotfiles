@@ -3,6 +3,7 @@
 #
 
 export PATH
+export EDITOR=vim
 
 if [ "$PS1" ]; then
   set -o ignoreeof # ignore ^D (^D Will not exit the shell)
