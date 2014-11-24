@@ -20,6 +20,9 @@
   git config --list
   ```
 * [ghar](http://www.ifup.org/posts/ghar-managing-your-home-in-git/)
+* [_osx](https://github.com/philips/etc/blob/master/.osx)
+* [_urlview](https://github.com/philips/etc/blob/master/.urlview)
+* [_zshrc](https://github.com/philips/etc/blob/master/.zshrc)
 
 ## vimrc
 * _vim_runtime
@@ -79,5 +82,3 @@
 ```
 sudo hostname -s Sukhavati
 ```
-
-* [.osx](https://github.com/philips/etc/blob/master/.osx)
