@@ -79,3 +79,5 @@
 ```
 sudo hostname -s Sukhavati
 ```
+
+* [.osx](https://github.com/philips/etc/blob/master/.osx)
