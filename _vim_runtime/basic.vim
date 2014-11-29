@@ -46,6 +46,9 @@
 " Get out of VI's compatible mode..
 set nocompatible
 
+"set title to show in console title bar
+set title
+
 " Sets how many lines of history VIM has to remember
 set history=700
 
@@ -263,6 +266,7 @@ map <c-space> ?
 
 " Disable highlight when <leader><cr> is pressed
 map <silent> <leader><cr> :noh<cr>
+" nmap <silent> <c-N> :silent noh<CR>
 
 " Smart way to move between windows
 map <C-j> <C-W>j
@@ -310,6 +314,9 @@ try
 catch
 endtry
 
+"Auto change the directory to the current file location
+autocmd BufEnter * lcd %:p:h
+
 " cd to the current file's directory
 noremap gc :lcd %:h<Cr>
 
@@ -340,6 +347,7 @@ set laststatus=2
 
 " Format the status line
 " set statusline=\ %{HasPaste()}%F%m%r%h\ %w\ \ CWD:\ %r%{getcwd()}%h\ \ \ Line:\ %l
+" set statusline=[%02n]\ %f\ %(\[%M%R%H]%)%=\ %4l,%02c%2V\ %P%*
 
 " Nice statusbar
 set statusline=
@@ -374,6 +382,10 @@ set statusline+=%-14.(%l,%c%V%)\ %<%P " offset
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Remap VIM 0 to first non-blank character
 map 0 ^
+
+"remap the esc key to a double press of the semi-colon
+ino ;; <esc> 
+cno ;; <c-c>
 
 " Move a line of text using ALT+[jk] or Comamnd+[jk] on mac
 nmap <M-j> mz:m+<cr>`z
@@ -436,8 +448,9 @@ map <leader>p :cp<cr>
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Spell checking
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Pressing ,ss will toggle and untoggle spell checking
-map <leader>ss :setlocal spell!<cr>
+" Pressing ,s will toggle and untoggle spell checking
+map <leader>s :setlocal spell! spelllang=en_gb<cr>
+" set spellfile=~/.vim_runtime/dict.add
 
 " Shortcuts using <leader>
 map <leader>sn ]s
@@ -457,7 +470,7 @@ map <leader>eb :e ~/buffer<cr>
 au BufRead,BufNewFile ~/buffer iab <buffer> xh1
 
 " Toggle paste mode on and off
-map <leader>pp :setlocal paste!<cr>
+map <leader>p :setlocal paste!<cr>
 set pastetoggle=<F3>
 
 "Remove indenting on empty lines
