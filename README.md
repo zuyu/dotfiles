@@ -21,7 +21,7 @@
   ```
 * [ghar](http://www.ifup.org/posts/ghar-managing-your-home-in-git/)
 * [_osx](https://github.com/philips/etc/blob/master/.osx)
-* [_tmux](https://github.com/philips/etc/blob/master/.tmux.conf)
+* _tmux [1](https://github.com/huntlyc/dotfiles/blob/master/.tmux.conf) [2](https://github.com/philips/etc/blob/master/.tmux.conf)
 * [_urlview](https://github.com/philips/etc/blob/master/.urlview)
 * [_zshrc](https://github.com/philips/etc/blob/master/.zshrc)
 
