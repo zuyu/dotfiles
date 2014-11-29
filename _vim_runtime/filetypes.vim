@@ -1,4 +1,11 @@
 """"""""""""""""""""""""""""""
+" => Bash section
+""""""""""""""""""""""""""""""
+"When saving a bash file, automatically have it set itself as executable
+au bufwritepost * if getline(1) =~ "^#!" | if getline(1) =~ "/bin/" | silent !chmod a+x <afile> | endif | endif
+
+
+""""""""""""""""""""""""""""""
 " => Python section
 """"""""""""""""""""""""""""""
 let python_highlight_all = 1
