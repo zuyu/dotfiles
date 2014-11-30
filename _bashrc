@@ -22,6 +22,7 @@ if [ -f ~/.git-prompt.sh ] && [ -f ~/.git-completion.bash ]; then
   source ~/.git-prompt.sh
   source ~/.git-completion.bash
   export PS1='[\h \[\033[0;36m\]\W\[\033[0m\]$(__git_ps1 " \[\033[1;32m\](%s)\[\033[0m\]")]\$'
+  # export GIT_PS1_SHOWDIRTYSTATE=yes
 fi
 
 export HISTCONTROL=erasedups:ignoreboth
