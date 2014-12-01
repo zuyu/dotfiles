@@ -54,6 +54,8 @@
 * git
 * maven
 * [osquery](http://osquery.io/)
+* protobuf
+* ossp-uuid, aka libuuid
 * wget
 
 ## Software
