@@ -39,6 +39,7 @@
 ## [Homebrew](http://brew.sh)
 * ack
 * bash
+* boost
 * cmake
 * [brew-cask](http://caskroom.io)
 
