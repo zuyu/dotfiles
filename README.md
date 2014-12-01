@@ -51,6 +51,7 @@
    brew cask install google-chrome
    ```
   * Vagrant
+* gsasl
 * git
 * maven
 * [osquery](http://osquery.io/)
