@@ -1,4 +1,4 @@
-# profiles
+# dotfiles
 
 ## bash conf
 * _bash_profile
