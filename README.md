@@ -31,6 +31,8 @@
   * extended.vim
   * filetypes.vim
   * local.vim
+* plugins
+  * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe/blob/master/README.md)
 
 ## [iTerm](http://iterm2.com)
 ### [colorscheme](http://iterm2colorschemes.com)
@@ -64,6 +66,7 @@
 * 1password
 * [SMART Utility](http://www.volitans-software.com/smart_utility.php)
 * [Seil](https://pqrs.org/osx/karabiner/seil.html.en), which could turn *caps lock* to **esc**
+* [MacVIM](https://github.com/b4winckler/macvim/wiki/Building)
 * [cpplint](http://google-styleguide.googlecode.com/svn/trunk/cpplint/cpplint.py)
 * VirtualBox
 * Cisco AnyConnect VPN Client
