@@ -31,7 +31,7 @@
   * extended.vim
   * filetypes.vim
   * local.vim
-* plugins
+* [Vundle](https://github.com/gmarik/Vundle.vim) plugins
   * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe/blob/master/README.md)
 
 ## [iTerm](http://iterm2.com)
