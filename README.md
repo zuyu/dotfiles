@@ -64,6 +64,7 @@
 ## Software
 * Dropbox
 * 1password
+* [tarsnap](https://www.tarsnap.com/download.html) and its [configurations](http://www.daemonology.net/blog/2009-06-11-cryptographic-right-answers.html)
 * [SMART Utility](http://www.volitans-software.com/smart_utility.php)
 * [Seil](https://pqrs.org/osx/karabiner/seil.html.en), which could turn *caps lock* to **esc**
 * [MacVIM](https://github.com/b4winckler/macvim/wiki/Building)
