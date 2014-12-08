@@ -20,6 +20,7 @@
   git config --list
   ```
 * [ghar](http://www.ifup.org/posts/ghar-managing-your-home-in-git/)
+* [laptop](https://github.com/thoughtbot/laptop)
 * [_osx](https://github.com/philips/etc/blob/master/.osx)
 * _tmux [1](https://github.com/huntlyc/dotfiles/blob/master/.tmux.conf) [2](https://github.com/philips/etc/blob/master/.tmux.conf)
 * [_urlview](https://github.com/philips/etc/blob/master/.urlview)
