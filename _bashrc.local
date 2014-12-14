@@ -13,6 +13,8 @@ export JAVA_HOME=/usr/lib/jvm/java
 mkdir -p $HOME/workspace/go
 export GOPATH=$HOME/workspace/go
 mkdir -p $GOPATH/src/github.com/zuyu $GOPATH/src/github.com/golang $GOPATH/bin $GOPATH/pkg
-git clone https://github.com/golang/example.git $GOPATH/src/github.com/golang/example
+if [ ! -d "$GOPATH/src/github.com/golang/example" ]; then
+  git clone https://github.com/golang/example.git $GOPATH/src/github.com/golang/example
+fi
 
 export PATH=$PATH:$GOPATH/bin
