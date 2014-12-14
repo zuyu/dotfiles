@@ -12,6 +12,7 @@ export JAVA_HOME=/usr/lib/jvm/java
 # GO development environment
 mkdir -p $HOME/workspace/go
 export GOPATH=$HOME/workspace/go
-mkdir -p $GOPATH/src/github.com/zuyu
+mkdir -p $GOPATH/src/github.com/zuyu $GOPATH/src/github.com/golang $GOPATH/bin $GOPATH/pkg
+git clone https://github.com/golang/example.git $GOPATH/src/github.com/golang/example
 
 export PATH=$PATH:$GOPATH/bin
