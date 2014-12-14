@@ -56,6 +56,7 @@
   * Vagrant
 * gsasl
 * git
+* go
 * maven
 * [osquery](http://osquery.io/)
 * protobuf
