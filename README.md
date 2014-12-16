@@ -63,6 +63,7 @@
 * protobuf
 * ossp-uuid, aka libuuid
 * wget
+* qcachegrind
 
 ## Software
 * Dropbox
