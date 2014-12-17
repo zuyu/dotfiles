@@ -41,6 +41,8 @@
 
 ## [Homebrew](http://brew.sh)
 * ack
+* autoconf
+* automake
 * bash
 * bison
 * boost
