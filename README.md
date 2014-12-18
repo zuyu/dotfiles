@@ -60,6 +60,7 @@
 * gsasl
 * git
 * go
+* libtool
 * maven
 * [osquery](http://osquery.io/)
 * protobuf
