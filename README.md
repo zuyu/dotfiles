@@ -111,3 +111,6 @@
 ```
 sudo hostname -s Sukhavati
 ```
+
+## Reference
+* [Mac OSX Dev Setup](https://github.com/nicolashery/mac-dev-setup)
