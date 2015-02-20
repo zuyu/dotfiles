@@ -384,7 +384,7 @@ set statusline+=%-14.(%l,%c%V%)\ %<%P " offset
 map 0 ^
 
 "remap the esc key to a double press of the semi-colon
-ino ;; <esc> 
+ino ;; <esc>
 cno ;; <c-c>
 
 " Move a line of text using ALT+[jk] or Comamnd+[jk] on mac
@@ -400,14 +400,14 @@ if has("mac") || has("macunix")
   vmap <D-k> <M-k>
 endif
 
-" Delete trailing white space on save, useful for Python and CoffeeScript ;)
+" Delete trailing white space on save
 func! DeleteTrailingWS()
   exe "normal mz"
   %s/\s\+$//ge
   exe "normal `z"
 endfunc
-autocmd BufWrite *.py :call DeleteTrailingWS()
-autocmd BufWrite *.coffee :call DeleteTrailingWS()
+
+noremap <silent> <leader>ts :call DeleteTrailingWS()<CR>
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
