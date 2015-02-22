@@ -63,6 +63,7 @@
 * libtool
 * maven
 * [osquery](http://osquery.io/)
+* pkg-config
 * protobuf
 * ossp-uuid, aka libuuid
 * wget
