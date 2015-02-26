@@ -96,6 +96,7 @@
 * OpenAFS
 * MacTex
 * TextMate
+* [fswatch](http://blog.daanraman.com/coding/automatically-reload-chrome-when-editing-files-on-osx/)
 * Mou
 
 ## [Chrome Extensions](https://chrome.google.com/webstore/category/apps)
