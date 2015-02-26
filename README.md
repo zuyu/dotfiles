@@ -34,6 +34,7 @@
   * local.vim
 * [Vundle](https://github.com/gmarik/Vundle.vim) plugins
   * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe/blob/master/README.md)
+  * [vim-scala](https://github.com/derekwyatt/vim-scala)
 
 ## [iTerm](http://iterm2.com)
 ### [colorscheme](http://iterm2colorschemes.com)
