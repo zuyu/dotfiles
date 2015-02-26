@@ -97,6 +97,7 @@
 * MacTex
 * TextMate
 * [fswatch](http://blog.daanraman.com/coding/automatically-reload-chrome-when-editing-files-on-osx/)
+* [jekyll](http://derekwyatt.org/2014/01/01/moving-from-wordpress-to-github-pages.html)
 * Mou
 
 ## [Chrome Extensions](https://chrome.google.com/webstore/category/apps)
