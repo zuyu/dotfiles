@@ -68,6 +68,7 @@
 * protobuf
 * ossp-uuid, aka libuuid
 * wget
+* [atosl](https://github.com/facebook/atosl)
 * qcachegrind
 
 ## Software
