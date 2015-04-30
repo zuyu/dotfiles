@@ -63,6 +63,7 @@
 * go
 * libtool
 * maven
+* mercurial
 * [osquery](http://osquery.io/)
 * pkg-config
 * protobuf
