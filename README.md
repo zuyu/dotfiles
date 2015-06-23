@@ -53,11 +53,12 @@
   ```
    brew install caskroom/cask/brew-cask
   ```
-  * Chrome
-   ```
-   brew cask install google-chrome
-   ```
-  * Vagrant
+* Chrome
+
+  ```
+  brew cask install google-chrome
+  ```
+* Vagrant
 * gsasl
 * git
 * go
