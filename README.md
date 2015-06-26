@@ -89,6 +89,7 @@
 * Skype
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle)
 * Yed
+* Sophos Anti-Virus
 * [TeXmacs](https://yinwang0.wordpress.com/2012/10/13/texmacs/)
 * [IntelliJ IDEA](http://www.jetbrains.com/idea/download/)
 * [Sublime Text](http://www.sublimetext.com)
