@@ -44,10 +44,14 @@
 * ack
 * autoconf
 * automake
+* cmake
+* git
+* libtool
+* protobuf
+* wget
 * bash
 * bison
 * boost
-* cmake
 * [brew-cask](http://caskroom.io)
 
   ```
@@ -60,16 +64,12 @@
   ```
 * Vagrant
 * gsasl
-* git
 * go
-* libtool
 * maven
 * mercurial
 * [osquery](http://osquery.io/)
 * pkg-config
-* protobuf
 * ossp-uuid, aka libuuid
-* wget
 * [atosl](https://github.com/facebook/atosl)
 * qcachegrind
 
