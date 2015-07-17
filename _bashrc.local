@@ -10,8 +10,8 @@ export JAVA_HOME=/usr/lib/jvm/java
 # export PATH=$PATH:<NEWPATH>
 
 # GO development environment
-mkdir -p $HOME/workspace/go
-export GOPATH=$HOME/workspace/go
-mkdir -p $GOPATH/src/github.com/zuyu $GOPATH/bin $GOPATH/pkg
+# mkdir -p $HOME/workspace/go
+# export GOPATH=$HOME/workspace/go
+# mkdir -p $GOPATH/src/github.com/zuyu $GOPATH/bin $GOPATH/pkg
 
-export PATH=$PATH:$GOPATH/bin
+# export PATH=$PATH:$GOPATH/bin
