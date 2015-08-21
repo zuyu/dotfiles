@@ -83,6 +83,17 @@
 * [cpplint](http://google-styleguide.googlecode.com/svn/trunk/cpplint/cpplint.py)
 * VirtualBox
 * Cisco AnyConnect VPN Client
+* [Sogou input method](http://pinyin.sogou.com/mac/)
+* [Alfred](https://www.alfredapp.com)
+* [Fantastical 2](https://flexibits.com/fantastical)
+* [SizeUp](http://www.irradiatedsoftware.com/sizeup/)
+* [Manico](http://manico.im)
+* [PopClip](http://pilotmoon.com/popclip/)
+* [XtraFinder](https://www.trankynam.com/xtrafinder/)
+* [Shortcat](https://shortcatapp.com/)
+* [Bartender](http://www.macbartender.com)
+* [Snip](http://snip.qq.com)
+* [go2shell](http://zipzapmac.com/Go2Shell)
 * Java
 * [ccache](https://ccache.samba.org/download.html)
 * Adobe Flash Player
@@ -123,3 +134,4 @@ sudo hostname -s Sukhavati
 
 ## Reference
 * [Mac OSX Dev Setup](https://github.com/nicolashery/mac-dev-setup)
+* [Mac Keyboard Shortcuts](https://support.apple.com/en-us/HT201236)
