@@ -76,6 +76,7 @@
 ## Software
 * Dropbox
 * 1password
+* [GnuPG](https://gpgtools.org)
 * [SourceTree](https://www.sourcetreeapp.com)
 * [tarsnap](https://www.tarsnap.com/download.html) and its [configurations](http://www.daemonology.net/blog/2009-06-11-cryptographic-right-answers.html)
 * [SMART Utility](http://www.volitans-software.com/smart_utility.php)
