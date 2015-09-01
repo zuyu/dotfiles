@@ -105,6 +105,7 @@
 * Sophos Anti-Virus
 * [TeXmacs](https://yinwang0.wordpress.com/2012/10/13/texmacs/)
 * [IntelliJ IDEA](http://www.jetbrains.com/idea/download/)
+* [WebStorm](https://www.jetbrains.com/webstorm/)
 * [Sublime Text](http://www.sublimetext.com)
 * [calibre](http://calibre-ebook.com/download)
 * [Atom](https://atom.io)
