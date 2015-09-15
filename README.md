@@ -46,11 +46,12 @@
 * automake
 * cmake
 * git
+* flex
+* bison
 * libtool
 * protobuf
 * wget
 * bash
-* bison
 * boost
 * [brew-cask](http://caskroom.io)
 
