@@ -48,6 +48,12 @@
 * git
 * flex
 * bison
+* iwyu
+
+  ```
+   brew tap jasonmp85/iwyu
+   brew install iwyu
+  ```
 * libtool
 * protobuf
 * wget
