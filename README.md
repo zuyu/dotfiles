@@ -17,6 +17,7 @@
   git config --global user.name "My Name"
   git config --global user.email me@example.com
   git config --global core.editor vim
+  git config --global push.default matching
   git config --list
   ```
 * [ghar](http://www.ifup.org/posts/ghar-managing-your-home-in-git/)
