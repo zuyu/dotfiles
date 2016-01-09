@@ -92,6 +92,14 @@ augroup filetype
 augroup END
 
 
+"""""""""""""""""""""""""""""""
+" => protobuf section
+"""""""""""""""""""""""""""""""
+augroup filetype
+  au! BufRead,BufNewFile *.proto setfiletype proto
+augroup end
+
+
 """"""""""""""""""""""""""""""
 " => Scheme section
 """"""""""""""""""""""""""""""
