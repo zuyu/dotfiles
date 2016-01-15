@@ -147,5 +147,4 @@ sudo hostname -s Sukhavati
 
 ## Reference
 * [Mac OS X Setup Guide](http://sourabhbajaj.com/mac-setup)
-* [Mac OSX Dev Setup](https://github.com/nicolashery/mac-dev-setup)
 * [Mac Keyboard Shortcuts](https://support.apple.com/en-us/HT201236)
