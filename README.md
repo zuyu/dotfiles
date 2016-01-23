@@ -46,10 +46,13 @@
 * ack
 * autoconf
 * automake
-* cmake
-* git
-* flex
 * bison
+* cmake
+* flex
+* gflags
+* git
+* glog
+* htop
 * iwyu
 
   ```
@@ -58,8 +61,15 @@
   ```
 * libtool
 * protobuf
+* tree
 * wget
 * bash
+* [grpc](https://github.com/grpc/homebrew-grpc)
+
+  ```
+   brew tap grpc/grpc
+   brew install grpc
+  ```
 * boost
 * [brew-cask](http://caskroom.io)
 
@@ -71,6 +81,9 @@
   ```
   brew cask install google-chrome
   ```
+* docker
+* docker-machine
+* http-parser
 * Vagrant
 * gsasl
 * go
