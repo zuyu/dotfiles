@@ -400,15 +400,6 @@ if has("mac") || has("macunix")
   vmap <D-k> <M-k>
 endif
 
-" Delete trailing white space on save
-func! DeleteTrailingWS()
-  exe "normal mz"
-  %s/\s\+$//ge
-  exe "normal `z"
-endfunc
-
-noremap <silent> <leader>ts :call DeleteTrailingWS()<CR>
-
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => vimgrep searching and cope displaying
@@ -480,6 +471,23 @@ nnoremap <F7>  :call UseCWord()<CR>
 
 " Super paste
 inoremap <C-v> <esc>:set paste<cr>mui<C-R>+<esc>mv'uV'v=:set nopaste<cr>
+
+" Highlight trailing white spaces
+match ErrorMsg /\s\+$/
+
+" Delete trailing white space on save
+func! DeleteTrailingWhiteSpaces()
+  exe "normal mz"
+  %s/\s\+$//ge
+  exe "normal `z"
+endfunc
+
+" noremap <silent> <leader>ts :call DeleteTrailingWhiteSpaces()<CR>
+
+autocmd FileWritePre   * :call DeleteTrailingWhiteSpaces()
+autocmd FileAppendPre  * :call DeleteTrailingWhiteSpaces()
+autocmd FilterWritePre * :call DeleteTrailingWhiteSpaces()
+autocmd BufWritePre    * :call DeleteTrailingWhiteSpaces()
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
