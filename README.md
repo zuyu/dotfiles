@@ -17,7 +17,9 @@
   git config --global user.name "My Name"
   git config --global user.email me@example.com
   git config --global core.editor vim
+  git config --global branch.autosetuprebase always
   git config --global push.default matching
+  git config --global rebase.autosquash true
   git config --global status.submoduleSummary true
   git config --list
   ```
