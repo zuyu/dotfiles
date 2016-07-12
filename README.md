@@ -16,6 +16,9 @@
   ```
   git config --global user.name "My Name"
   git config --global user.email me@example.com
+  git config --global diff.renames true
+  git config --global color.ui true
+  git config --global http.postBuffer 524288000
   git config --global core.editor vim
   git config --global branch.autosetuprebase always
   git config --global push.default matching
