@@ -23,7 +23,7 @@
   git config --global push.default matching
   git config --global rebase.autosquash true
   git config --global status.submoduleSummary true
-  git config --global http.postBuffer 524288000
+  git config --global http.postBuffer 524288000  // Fix " Unable to rewind rpc post data - try increasing http.postBuffer "
   git config --list
   ```
 * [ghar](http://www.ifup.org/posts/ghar-managing-your-home-in-git/)
