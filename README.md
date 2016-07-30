@@ -168,4 +168,5 @@ sudo hostname -s Sukhavati
 ## Reference
 * [Mac OS X Setup Guide](http://sourabhbajaj.com/mac-setup)
 * [Hacker's Guide to Setting up Your Mac](http://lapwinglabs.com/blog/hacker-guide-to-setting-up-your-mac)
+* [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-en.md#awesome-mac)
 * [Mac Keyboard Shortcuts](https://support.apple.com/en-us/HT201236)
