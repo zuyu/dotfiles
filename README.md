@@ -166,6 +166,7 @@ sudo hostname -s Sukhavati
 ```
 
 ## Reference
+* [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles)
 * [Mac OS X Setup Guide](http://sourabhbajaj.com/mac-setup)
 * [Hacker's Guide to Setting up Your Mac](http://lapwinglabs.com/blog/hacker-guide-to-setting-up-your-mac)
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-en.md#awesome-mac)
