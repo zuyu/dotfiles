@@ -76,6 +76,7 @@
    brew tap grpc/grpc
    brew install grpc
   ```
+* graphviz
 * boost
 * [brew-cask](http://caskroom.io)
 
