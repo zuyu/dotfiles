@@ -48,6 +48,7 @@
 ## [iTerm](http://iterm2.com)
 ### [colorscheme](http://iterm2colorschemes.com)
 * [Novel](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Novel.itermcolors)
+* [Source Code Pro Font](https://github.com/adobe-fonts/source-code-pro/releases/latest)
 
 ## [Homebrew](http://brew.sh)
 * ack
