@@ -146,6 +146,7 @@
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle)
 * Yed
 * Sophos Anti-Virus
+* [Avira Anti-Virus](https://www.avira.com/en/free-antivirus-mac)
 * [TeXmacs](https://yinwang0.wordpress.com/2012/10/13/texmacs/)
 * [IntelliJ IDEA](http://www.jetbrains.com/idea/download/)
 * [WebStorm](https://www.jetbrains.com/webstorm/)
