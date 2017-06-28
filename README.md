@@ -140,9 +140,9 @@
 * [Snip](http://snip.qq.com)
 * [go2shell](http://zipzapmac.com/Go2Shell)
 * Java
-```
-java -version
-```
+  ```
+  java -version
+  ```
 * [ccache](https://ccache.samba.org/download.html)
 * Adobe Flash Player
 * Skype
