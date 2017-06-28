@@ -33,9 +33,9 @@
 * [_urlview](https://github.com/philips/etc/blob/master/.urlview)
 * [_zshrc](https://github.com/philips/etc/blob/master/.zshrc)
 
-## vimrc
+## [vimrc](https://github.com/amix/vimrc#the-ultimate-vimrc)
 * _vim_runtime
-  * [basic.vim](http://amix.dk/vim/vimrc.txt)
+  * basic.vim
   * extended.vim
   * filetypes.vim
   * local.vim
