@@ -94,6 +94,11 @@
 * docker-machine
 * http-parser
 * Vagrant
+  ```
+   brew cask install virtualbox
+   brew cask install vagrant
+   brew cask install vagrant-manager
+  ```
 * gsasl
 * go
 * maven
