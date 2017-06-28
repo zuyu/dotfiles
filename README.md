@@ -39,6 +39,7 @@
   * extended.vim
   * filetypes.vim
   * local.vim
+* [Maximum Awesome](https://github.com/square/maximum-awesome#maximum-awesome)
 * [Vundle](https://github.com/gmarik/Vundle.vim) plugins
   * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe/blob/master/README.md)
   * [vim-protobuf](https://github.com/uarun/vim-protobuf)
