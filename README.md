@@ -105,6 +105,11 @@
 ## Software
 * Dropbox
 * 1password
+* Xcode
+
+  ```
+  xcode-select --install
+  ```
 * [GnuPG](https://gpgtools.org)
 * [SourceTree](https://www.sourcetreeapp.com)
 * [tarsnap](https://www.tarsnap.com/download.html) and its [configurations](http://www.daemonology.net/blog/2009-06-11-cryptographic-right-answers.html)
