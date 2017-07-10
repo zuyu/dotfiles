@@ -156,6 +156,7 @@
 * [Sublime Text](http://www.sublimetext.com)
 * [calibre](http://calibre-ebook.com/download)
 * [Atom](https://atom.io)
+  * split-diff
 * Balsamiq Mockups
 * Mendeley
 * OpenAFS
