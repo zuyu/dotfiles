@@ -2,7 +2,7 @@
 " => Bash section
 """"""""""""""""""""""""""""""
 "When saving a bash file, automatically have it set itself as executable
-au bufwritepost * if getline(1) =~ "^#!" | if getline(1) =~ "/bin/" | silent !chmod a+x <afile> | endif | endif
+au BufWritePost * if getline(1) =~ "^#!" | if getline(1) =~ "/bin/" | silent execute "!chmod a+x <afile>" | endif | endif
 
 
 """"""""""""""""""""""""""""""
