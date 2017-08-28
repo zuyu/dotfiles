@@ -1,6 +1,7 @@
 export CDPATH=.:~
 
-# export MAKEFLAGS='-j 5'
+export HW_NCPU=`sysctl -n hw.ncpu`
+export MAKEFLAGS='-j $HW_NCPU'
 
 # export JAVA_HOME=/usr/lib/jvm/java
 
