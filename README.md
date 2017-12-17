@@ -137,7 +137,7 @@
 * [XtraFinder](https://www.trankynam.com/xtrafinder/)
 * [Shortcat](https://shortcatapp.com/)
 * [Bartender](http://www.macbartender.com)
-* [Snip](http://snip.qq.com)
+* [Snipaste](https://www.snipaste.com/download.html) substitutes [~~Snip~~](http://snip.qq.com)
 * [go2shell](http://zipzapmac.com/Go2Shell)
 * Java
   ```
