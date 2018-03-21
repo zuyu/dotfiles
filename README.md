@@ -103,6 +103,7 @@
 * go
 * maven
 * mercurial
+* [neovim](https://neovim.io/)
 * [osquery](http://osquery.io/)
 * pkg-config
 * ossp-uuid, aka libuuid
