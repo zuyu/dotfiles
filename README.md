@@ -118,6 +118,7 @@
   ```
   xcode-select --install
   ```
+* [Anaconda](https://www.anaconda.com/download/#macos)
 * [Monodraw](https://monodraw.helftone.com), better w/ nsimsun font.
 * [Timing](http://timingapp.com/) keeps track of the time
 * [Tomighty](http://www.tomighty.org/): a free desktop timer for the Pomodoro Technique
