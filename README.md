@@ -8,6 +8,7 @@
     + [git-completion.bash](https://github.com/git/git/blob/master/contrib/completion/git-completion.bash)
 * _bash_alias
 * _bash_local
+* _matplotlibrc
 * _reviewboardrc
 * _ssh
   * [github](https://help.github.com/articles/generating-ssh-keys/)
