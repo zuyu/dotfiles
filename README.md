@@ -171,6 +171,7 @@
 * [Mou](http://25.io/mou/)
 * [Surge](https://nssurge.com/)
 * OverDrive
+* [Beyond Compare](https://www.scootersoftware.com/download.php)
 
 ## [Chrome Extensions](https://chrome.google.com/webstore/category/apps)
 * [Mercury Reader](https://chrome.google.com/webstore/detail/mercury-reader/oknpjjbmpnndlpmnhmekjpocelpnlfdi)
