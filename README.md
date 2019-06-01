@@ -114,6 +114,7 @@
 ## Software
 * Dropbox
 * 1password
+* [Brave](https://brave.com/download/)
 * Xcode
 
   ```
