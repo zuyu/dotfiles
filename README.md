@@ -121,6 +121,7 @@
   xcode-select --install
   ```
 * [Anaconda](https://www.anaconda.com/download/#macos)
+* [CLion](https://www.jetbrains.com/clion/download/#section=mac)
 * [MacTex](https://www.tug.org/mactex/)
 * [Monodraw](https://monodraw.helftone.com), better w/ nsimsun font.
 * [Timing](http://timingapp.com/) keeps track of the time
