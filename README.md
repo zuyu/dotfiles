@@ -116,10 +116,6 @@
 * 1password
 * [Brave](https://brave.com/download/)
 * Xcode
-
-  ```
-  xcode-select --install
-  ```
 * [Anaconda](https://www.anaconda.com/download/#macos)
 * [CLion](https://www.jetbrains.com/clion/download/#section=mac)
 * [MacTex](https://www.tug.org/mactex/)
