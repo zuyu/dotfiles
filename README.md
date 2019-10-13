@@ -75,7 +75,12 @@
 * protobuf
 * tree
 * wget
-* bash
+* python
+
+  ```
+   brew install pyenv xz
+   python-build 3.6.8 ~/.runtimes/Python36
+  ```
 * [grpc](https://github.com/grpc/homebrew-grpc)
 
   ```
@@ -120,6 +125,10 @@
 * 1password
 * [Brave](https://brave.com/download/)
 * Xcode
+
+  ```
+sudo installer -pkg /Library/Developer/CommandLineTools/Packages/macOS_SDK_headers_for_macOS_10.14.pkg -target /
+  ```
 * [Anaconda](https://www.anaconda.com/download/#macos)
 * [CLion](https://www.jetbrains.com/clion/download/#section=mac)
 * [MacTex](https://www.tug.org/mactex/)
