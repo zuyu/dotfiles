@@ -52,6 +52,9 @@
 * [Source Code Pro Font](https://github.com/adobe-fonts/source-code-pro/releases/latest)
 
 ## [Homebrew](http://brew.sh)
+  ```
+   brew install ruby
+  ```
 * ack
 * autoconf
 * automake
@@ -95,6 +98,7 @@
 * docker-machine
 * http-parser
 * Vagrant
+
   ```
    brew cask install virtualbox
    brew cask install vagrant
@@ -143,6 +147,7 @@
 * [Snipaste](https://www.snipaste.com/download.html) substitutes [~~Snip~~](http://snip.qq.com)
 * [go2shell](http://zipzapmac.com/Go2Shell)
 * Java
+
   ```
   java -version
   ```
@@ -194,8 +199,40 @@
 
 ## Misc conf
 * hostname
+
 ```
 sudo hostname -s Sukhavati
+```
+* Raise kernel resource limits on the maximum number of open files
+
+```
+sysctl kern.maxfiles
+
+# /Library/LaunchDaemons/limit.maxproc.plist
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+   <dict>
+      <key>Label</key>
+         <string>limit.maxfiles</string>
+      <key>ProgramArguments</key>
+         <array>
+            <string>launchctl</string>
+            <string>limit</string>
+            <string>maxfiles</string>
+            <string>20480</string>
+            <string>20480</string>
+         </array>
+      <key>RunAtLoad</key>
+         <true/>
+      <key>ServiceIPC</key>
+         <false/>
+   </dict>
+</plist>
+
+sudo sysctl -w kern.maxfiles=20480
+
+reboot
 ```
 
 ## Reference
