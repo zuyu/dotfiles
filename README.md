@@ -56,11 +56,15 @@
    brew install ruby
   ```
 * ack
+  ```
+   ack --dump
+  ```
 * autoconf
 * automake
 * bison
 * cmake
 * flex
+* fzf
 * gflags
 * git
 * glog
