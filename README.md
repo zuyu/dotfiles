@@ -55,6 +55,7 @@
   ```
    brew install ruby
   ```
+* the_silver_searcher
 * ack
   ```
    ack --dump
