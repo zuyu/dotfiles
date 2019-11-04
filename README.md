@@ -94,11 +94,7 @@
   ```
 * graphviz
 * boost
-* [brew-cask](http://caskroom.io)
-
-  ```
-   brew install caskroom/cask/brew-cask
-  ```
+* [brew-cask](https://formulae.brew.sh/cask/)
 * Chrome
 
   ```
