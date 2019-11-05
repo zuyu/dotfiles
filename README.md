@@ -128,7 +128,7 @@
 * Xcode
 
   ```
-sudo installer -pkg /Library/Developer/CommandLineTools/Packages/macOS_SDK_headers_for_macOS_10.14.pkg -target /
+   sudo installer -pkg /Library/Developer/CommandLineTools/Packages/macOS_SDK_headers_for_macOS_10.14.pkg -target /
   ```
 * [Anaconda](https://www.anaconda.com/download/#macos)
 * [CLion](https://www.jetbrains.com/clion/download/#section=mac)
@@ -159,7 +159,7 @@ sudo installer -pkg /Library/Developer/CommandLineTools/Packages/macOS_SDK_heade
 * Java
 
   ```
-  java -version
+   java -version
   ```
 * [ccache](https://ccache.samba.org/download.html)
 * Adobe Flash Player
