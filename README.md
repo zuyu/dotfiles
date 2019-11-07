@@ -1,7 +1,7 @@
 # dotfiles
 
 ## zsh conf
-* _zshrc
+* [_zshrc](https://github.com/zuyu/dotfiles/blob/master/_zshrc)
 * _zshenv
 
 ## bash conf
@@ -35,8 +35,6 @@
 * [laptop](https://github.com/thoughtbot/laptop)
 * [_osx](https://github.com/philips/etc/blob/master/.osx)
 * [_tmux](https://github.com/pivotal/tmux-config) [1](https://github.com/huntlyc/dotfiles/blob/master/.tmux.conf) [2](https://github.com/philips/etc/blob/master/.tmux.conf)
-* [_urlview](https://github.com/philips/etc/blob/master/.urlview)
-* [_zshrc](https://github.com/philips/etc/blob/master/.zshrc)
 
 ## [vimrc](https://github.com/amix/vimrc#the-ultimate-vimrc)
 * _vim_runtime
