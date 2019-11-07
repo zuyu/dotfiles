@@ -1,5 +1,9 @@
 # dotfiles
 
+## zsh conf
+* _zshrc
+* _zshenv
+
 ## bash conf
 * _bash_profile
 * _bash_rc
@@ -48,7 +52,9 @@
 
 ## [iTerm](http://iterm2.com)
 ### [colorscheme](http://iterm2colorschemes.com)
+* [Material Design Colors](https://raw.githubusercontent.com/MartinSeeler/iterm2-material-design/master/material-design-colors.itermcolors)
 * [Novel](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Novel.itermcolors)
+* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
 * [Source Code Pro Font](https://github.com/adobe-fonts/source-code-pro/releases/latest)
 
 ## [Homebrew](http://brew.sh)
@@ -264,3 +270,13 @@ reboot
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md#awesome-mac)
 * [Mac Keyboard Shortcuts](https://support.apple.com/en-us/HT201236)
 * [Chrome configuration](https://www.xaprb.com/blog/configuring-chrome-for-privacy-and-convenience/)
+* [github/haccks - step-by-step tutorial](https://github.com/haccks/zsh-config)
+* [github/bhilburn - Show off your config](https://github.com/bhilburn/powerlevel9k/wiki/Show-Off-Your-Config)
+* [github/jondot - Awesome DevEnv](https://github.com/jondot/awesome-devenv)
+* [github/k4m4 - Terminals are sexy](https://github.com/k4m4/terminals-are-sexy)
+* [github/jlevy - The art of the command line](https://github.com/jlevy/the-art-of-command-line)
+* [project-awesome - Awesome ZSH plugins](https://project-awesome.org/unixorn/awesome-zsh-plugins)
+* [medium/ryanwhocodes - Power up your terminal's colour scheme and productivity level!](https://medium.com/the-code-review/make-your-terminal-more-colourful-and-productive-with-iterm2-and-zsh-11b91607b98chttps://medium.com/the-code-review/make-your-terminal-more-colourful-and-productive-with-iterm2-and-zsh-11b91607b98c)
+* [medium/alex285 - Get Powerlevel9k the most cool linux shell over](https://medium.com/@alex285/get-powerlevel9k-the-most-cool-linux-shell-ever-1c38516b0caa)
+* [medium/caulfieldOwen - You're missing out on a better Mac terminal experience](https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7)
+* [medium/Jarvski - Customizing the OSX terminal](https://medium.com/@Jarvski/customizing-the-os-x-terminal-11fda5c3dd5c)
