@@ -61,7 +61,11 @@
    ack --dump
   ```
 * autoconf
+  ```
+   cd command that learns (e.g. j proj will jump to ~/projects)
+  ```
 * automake
+* autojump
 * bison
 * cmake
 * flex
@@ -69,6 +73,10 @@
 * gflags
 * git
 * glog
+* howdoi
+  ```
+   howdoi print stack trace python
+  ```
 * htop
 * iwyu
 
@@ -78,6 +86,10 @@
   ```
 * libtool
 * protobuf
+* tldr
+  ```
+   simplified man pages (e.g., tldr ls)
+  ```
 * tree
 * wget
 * python
