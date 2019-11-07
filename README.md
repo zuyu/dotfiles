@@ -57,7 +57,40 @@
 
 ## [Homebrew](http://brew.sh)
   ```
-   brew install ruby
+# Find things you can install with Homebrew
+brew search <formula name or substring>
+
+# Get formula status and configuration notes
+brew info <formulaname>
+
+# Edit a formula
+brew edit <formulaname>
+
+# Install a formula
+brew install <formulaname>
+
+# Update the Homebrew database with latest versions
+brew update
+
+# Upgrade everything on your system with the latest versions
+brew upgrade
+
+# Installation self-check
+brew doctor
+
+# List everything you have installed with Homebrew
+brew list
+
+# Uninstall a formula
+brew uninstall <formulaname>
+
+# Remove  stale lock files and outdated downloads
+brew cleanup
+
+# Would you like to know more?
+man brew
+
+brew install ruby
   ```
 * the_silver_searcher
 * ack
