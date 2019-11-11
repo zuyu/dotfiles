@@ -177,6 +177,8 @@ brew install ruby
 * Xcode
 
   ```
+   sudo xcode-select -s /Applications/Xcode.app
+   sudo xcodebuild -license accept
    sudo installer -pkg /Library/Developer/CommandLineTools/Packages/macOS_SDK_headers_for_macOS_10.14.pkg -target /
   ```
 * [Anaconda](https://www.anaconda.com/download/#macos)
