@@ -1,7 +1,7 @@
-# mine.zsh-theme
+# zuyu.zsh-theme
 
 # Use with a dark background and 256-color terminal!
-# Meant for people with git. Tested only on OS X 10.7.
+# Meant for people with git. Tested only on OS X 10.[14|15} and Linux.
 
 # You can set your computer name in the ~/.box-name file if you want.
 
