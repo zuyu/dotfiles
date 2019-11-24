@@ -1,7 +1,7 @@
 # Path to your oh-my-zsh installation.
 export ZSH="~/.oh-my-zsh"
 
-ZSH_THEME="pygmalion"
+ZSH_THEME="mine"
 
 DISABLE_UPDATE_PROMPT="true"
 
