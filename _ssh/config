@@ -1,0 +1,5 @@
+host node
+  HostName 10.0.0.1
+  AddKeysToAgent yes
+  UseKeychain yes
+  IdentityFile ~/.ssh/id_rsa_node
