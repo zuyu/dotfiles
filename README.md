@@ -181,6 +181,7 @@ brew install ruby
    sudo xcodebuild -license accept
    sudo installer -pkg /Library/Developer/CommandLineTools/Packages/macOS_SDK_headers_for_macOS_10.14.pkg -target /
   ```
+* [Quicksilver](https://qsapp.com/download.php)
 * [Anaconda](https://www.anaconda.com/download/#macos)
 * [CLion](https://www.jetbrains.com/clion/download/#section=mac)
 * [MacTex](https://www.tug.org/mactex/)
