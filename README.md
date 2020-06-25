@@ -144,10 +144,34 @@ brew install ruby
 * graphviz
 * boost
 * [brew-cask](https://formulae.brew.sh/cask/)
+
+  ```
+   brew install cask
+  ```
+* Arq
+
+  ```
+  brew cask install arq-cloud-backup
+  ```
+* [Alfred](https://www.alfredapp.com)
+
+  ```
+  brew cask install alfred
+  ```
+* KeepingYouAwake
+
+  ```
+  brew cask install keepingyouawake
+  ```
 * Chrome
 
   ```
   brew cask install google-chrome
+  ```
+* Authy
+
+  ```
+  brew cask install authy
   ```
 * docker
 * docker-machine
@@ -198,7 +222,6 @@ brew install ruby
 * VirtualBox
 * Cisco AnyConnect VPN Client
 * [Sogou input method](http://pinyin.sogou.com/mac/)
-* [Alfred](https://www.alfredapp.com)
 * [Fantastical 2](https://flexibits.com/fantastical)
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/)
 * [Manico](http://manico.im)
@@ -260,6 +283,7 @@ brew install ruby
 * uProxy
 
 ## Misc conf
+* [TouchID for password prompts](https://dev.to/thamaraiselvam/how-to-allow-touch-id-to-authenticate-for-sudo-commands-on-mac-2a68)
 * hostname
 
 ```
