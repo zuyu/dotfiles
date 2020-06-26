@@ -21,6 +21,7 @@
   ```
   git config --global user.name "My Name"
   git config --global user.email me@example.com
+  git config --global am.threeWay true
   git config --global diff.renames true
   git config --global color.ui true
   git config --global core.editor vim
