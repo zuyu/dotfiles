@@ -101,3 +101,6 @@ alias gst='git stash'
 alias gx='gitx --all'
 alias got='git '
 alias get='git '
+
+# Use `where`, `whence`, or `type`, instead of `which`
+unalias mysql
