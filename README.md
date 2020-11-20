@@ -165,6 +165,11 @@ brew install ruby
   ```
   brew cask install keepingyouawake
   ```
+* [MTMR](https://mtmr.app/)
+
+  ```
+  brew cask install mtmr
+  ```
 * Chrome
 
   ```
