@@ -12,11 +12,12 @@ plugins=(
   colorize
   dotenv
   git
+  iterm2
   osx
   pip
   python
   zsh-autosuggestions
-  zsh-syntax-highlighting
+  fast-syntax-highlighting
 )
 
 # File search functions
