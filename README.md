@@ -108,6 +108,7 @@ brew install ruby
 * bison
 * cmake
 * flex
+* [thefuck](https://github.com/nvbn/thefuck)
 * fzf
 * gflags
 * git
