@@ -56,6 +56,8 @@
 * [Novel](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Novel.itermcolors)
 * [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
 * [Source Code Pro Font](https://github.com/adobe-fonts/source-code-pro/releases/latest)
+### Formatting
+* [rich](https://github.com/willmcgugan/rich)
 
 ## [Homebrew](http://brew.sh)
   ```
@@ -112,6 +114,7 @@ brew install ruby
 * fzf
 * gflags
 * git
+* [glances](https://github.com/nicolargo/glances)
 * glog
 * howdoi
   ```
