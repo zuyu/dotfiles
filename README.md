@@ -157,32 +157,32 @@ brew install ruby
 * Arq
 
   ```
-  brew cask install arq-cloud-backup
+  brew install cask arq-cloud-backup
   ```
 * [Alfred](https://www.alfredapp.com)
 
   ```
-  brew cask install alfred
+  brew install cask alfred
   ```
 * KeepingYouAwake
 
   ```
-  brew cask install keepingyouawake
+  brew install cask keepingyouawake
   ```
 * [MTMR](https://mtmr.app/)
 
   ```
-  brew cask install mtmr
+  brew install cask mtmr
   ```
 * Chrome
 
   ```
-  brew cask install google-chrome
+  brew install cask google-chrome
   ```
 * Authy
 
   ```
-  brew cask install authy
+  brew install cask authy
   ```
 * docker
 * docker-machine
@@ -190,9 +190,9 @@ brew install ruby
 * Vagrant
 
   ```
-   brew cask install virtualbox
-   brew cask install vagrant
-   brew cask install vagrant-manager
+   brew install cask virtualbox
+   brew install cask vagrant
+   brew install cask vagrant-manager
   ```
 * gsasl
 * go
