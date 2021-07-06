@@ -296,6 +296,7 @@ brew install ruby
 * uProxy
 
 ## Misc conf
+* [TabNine](https://www.tabnine.com/)
 * [TouchID for password prompts](https://dev.to/thamaraiselvam/how-to-allow-touch-id-to-authenticate-for-sudo-commands-on-mac-2a68)
 * hostname
 
