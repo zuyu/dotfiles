@@ -13,7 +13,7 @@ plugins=(
   dotenv
   git
   iterm2
-  osx
+  macos
   pip
   python
   zsh-autosuggestions
