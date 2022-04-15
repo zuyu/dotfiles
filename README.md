@@ -102,6 +102,14 @@ brew install ruby
   ```
    ack --dump
   ```
+* git
+* htop
+* curl
+* wget
+* neovim
+* jq
+* cmake
+* ccache
 * autoconf
   ```
    cd command that learns (e.g. j proj will jump to ~/projects)
@@ -109,21 +117,17 @@ brew install ruby
 * automake
 * autojump
 * bison
-* cmake
 * flex
 * [thefuck](https://github.com/nvbn/thefuck)
 * fzf
 * gflags
-* git
 * [glances](https://github.com/nicolargo/glances)
 * glog
 * howdoi
   ```
    howdoi print stack trace python
   ```
-* htop
 * iwyu
-
   ```
    brew tap jasonmp85/iwyu
    brew install iwyu
@@ -135,7 +139,6 @@ brew install ruby
    simplified man pages (e.g., tldr ls)
   ```
 * tree
-* wget
 * python
 
   ```
