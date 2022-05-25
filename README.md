@@ -97,6 +97,7 @@ man brew
 
 brew install ruby
   ```
+* fd
 * the_silver_searcher
 * ack
   ```
