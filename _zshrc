@@ -103,5 +103,17 @@ alias gx='gitx --all'
 alias got='git '
 alias get='git '
 
+# AWS
+function aws_login() {
+  _check_if_args_count_match $# 1
+  if [ $? -ne 0 ]; then echo "Example usage: aws_login <aws_profile>"; return 1; fi
+  aws --profile $1 sso login
+}
+
+function _check_if_args_count_match() {
+  if [[ $1 -eq $2 ]]; then return 0; fi
+  return 1
+}
+
 # Use `where`, `whence`, or `type`, instead of `which`
 unalias mysql
