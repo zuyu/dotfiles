@@ -1,9 +1,13 @@
 # Path to your oh-my-zsh installation.
 export ZSH="~/.oh-my-zsh"
 
-ZSH_THEME="zuyu"
+zstyle ':omz:update' mode auto
 
-DISABLE_UPDATE_PROMPT="true"
+zstyle ':omz:update' frequency 13
+
+ENABLE_CORRECTION="true"
+
+COMPLETION_WAITING_DOTS="true"
 
 plugins=(
   brew
@@ -77,6 +81,8 @@ alias patch-p1='patch -p1 <'
 alias patch-p1-dry-run='patch -p1 --dry-run <'
 
 # git
+export GIT_EDITOR=vim
+
 alias g='git'
 alias ga='git add '
 alias gam='git am -3 -s'
@@ -85,6 +91,7 @@ alias gc='git commit '
 alias gco='git checkout '
 alias gd='git diff '
 alias get='git '
+alias gfm='git fetch origin master'
 alias gfo='git fetch origin'
 alias gfu='git fetch upstream'
 alias gfp='git format-patch'
@@ -99,6 +106,7 @@ alias gru='git rebase -i upstream/master'
 alias gs='git status '
 alias gsa='git stash apply'
 alias gst='git stash'
+alias gsu='git submodule sync --recursive && git submodule update --init --recursive'
 alias gx='gitx --all'
 alias got='git '
 alias get='git '
@@ -117,3 +125,15 @@ function _check_if_args_count_match() {
 
 # Use `where`, `whence`, or `type`, instead of `which`
 unalias mysql
+
+ulimit -S -c unlimited
+
+function docker_cleanup() {
+  NR_OF_RUNNING_CONTAINERS="$(docker ps -q | wc -l)"
+  if [[ $NR_OF_RUNNING_CONTAINERS -ne 0 ]]
+  then
+    docker kill $(docker ps -q) && docker rm $(docker ps -a -q)
+  fi
+}
+
+alias l_kernels='dpkg --list | grep linux-image | grep ii'
