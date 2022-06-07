@@ -128,11 +128,13 @@ unalias mysql
 
 ulimit -S -c unlimited
 
+# docker container stop $(docker ps -aq) && docker system prune -f
+
 function docker_cleanup() {
   NR_OF_RUNNING_CONTAINERS="$(docker ps -q | wc -l)"
   if [[ $NR_OF_RUNNING_CONTAINERS -ne 0 ]]
   then
-    docker kill $(docker ps -q) && docker rm $(docker ps -a -q)
+    docker kill $(docker ps -q) && docker rm $(docker ps -aq)
   fi
 }
 
