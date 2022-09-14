@@ -51,6 +51,8 @@
   * [vim-protobuf](https://github.com/uarun/vim-protobuf)
   * [vim-scala](https://github.com/derekwyatt/vim-scala)
 
+## [Tabby](https://tabby.sh)
+
 ## [iTerm](http://iterm2.com)
 ### [colorscheme](http://iterm2colorschemes.com)
 * [Material Design Colors](https://raw.githubusercontent.com/MartinSeeler/iterm2-material-design/master/material-design-colors.itermcolors)
