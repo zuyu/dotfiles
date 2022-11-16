@@ -359,3 +359,4 @@ reboot
 * [medium/alex285 - Get Powerlevel9k the most cool linux shell over](https://medium.com/@alex285/get-powerlevel9k-the-most-cool-linux-shell-ever-1c38516b0caa)
 * [medium/caulfieldOwen - You're missing out on a better Mac terminal experience](https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7)
 * [medium/Jarvski - Customizing the OSX terminal](https://medium.com/@Jarvski/customizing-the-os-x-terminal-11fda5c3dd5c)
+* [Dominikus's](https://github.com/gierdo/dotfiles)
