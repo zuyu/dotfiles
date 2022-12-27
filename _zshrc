@@ -91,6 +91,8 @@ alias patch-p1-dry-run='patch -p1 --dry-run <'
 # git
 export GIT_EDITOR=vim
 
+alias k='kubectl '
+
 alias g='git'
 alias ga='git add '
 alias gam='git am -3 -s'
