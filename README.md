@@ -122,7 +122,7 @@ brew install ruby
 * bison
 * flex
 * [thefuck](https://github.com/nvbn/thefuck)
-* fzf
+* [fzf](https://github.com/junegunn/fzf)
 * gflags
 * [glances](https://github.com/nicolargo/glances)
 * glog
