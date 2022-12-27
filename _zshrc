@@ -20,6 +20,7 @@ plugins=(
   macos
   pip
   python
+  kube-ps1
   zsh-autosuggestions
   fast-syntax-highlighting
 )
@@ -69,6 +70,13 @@ export MAKEFLAGS='-j $HW_NCPU'
 
 # Rust
 export PATH=$HOME/.cargo/bin:$PATH
+
+# Go
+export PATH=$PATH:/usr/local/go/bin
+export GOPATH=~/go
+
+# krew
+# export PATH="${KREW_ROOT:-$HOME/.krew}/bin:$PATH"
 
 # Example aliases
 alias ll='ls -l'
