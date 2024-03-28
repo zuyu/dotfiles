@@ -3,17 +3,6 @@
 ## zsh conf
 * [_zshrc](https://github.com/zuyu/dotfiles/blob/master/_zshrc)
 * _zshenv
-
-## bash conf
-* _bash_profile
-* _bash_rc
-  * git
-    + [git-prompt.sh](https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh)
-    + [git-completion.bash](https://github.com/git/git/blob/master/contrib/completion/git-completion.bash)
-* _bash_alias
-* _bash_local
-* _matplotlibrc
-* _reviewboardrc
 * _ssh
   * [github](https://help.github.com/articles/generating-ssh-keys/)
 * git conf
@@ -34,10 +23,6 @@
   git config --global http.postBuffer 524288000  // Fix " Unable to rewind rpc post data - try increasing http.postBuffer "
   git config --list
   ```
-* [ghar](http://www.ifup.org/posts/ghar-managing-your-home-in-git/)
-* [laptop](https://github.com/thoughtbot/laptop)
-* [_osx](https://github.com/philips/etc/blob/master/.osx)
-* [_tmux](https://github.com/pivotal/tmux-config) [1](https://github.com/huntlyc/dotfiles/blob/master/.tmux.conf) [2](https://github.com/philips/etc/blob/master/.tmux.conf)
 
 ## [vimrc](https://github.com/amix/vimrc#the-ultimate-vimrc)
 * _vim_runtime
@@ -109,10 +94,10 @@ brew install ruby
 * htop
 * curl
 * wget
-* neovim
+* [neovim](https://neovim.io/)
 * jq
 * cmake
-* ccache
+* [ccache](https://ccache.samba.org/download.html)
 * autoconf
   ```
    cd command that learns (e.g. j proj will jump to ~/projects)
@@ -205,7 +190,6 @@ brew install ruby
 * go
 * maven
 * mercurial
-* [neovim](https://neovim.io/)
 * [osquery](http://osquery.io/)
 * pkg-config
 * ossp-uuid, aka libuuid
@@ -221,7 +205,6 @@ brew install ruby
   ```
    sudo xcode-select -s /Applications/Xcode.app
    sudo xcodebuild -license accept
-   sudo installer -pkg /Library/Developer/CommandLineTools/Packages/macOS_SDK_headers_for_macOS_10.14.pkg -target /
   ```
 * [Quicksilver](https://qsapp.com/download.php)
 * [Anaconda](https://www.anaconda.com/download/#macos)
@@ -254,7 +237,6 @@ brew install ruby
   ```
    java -version
   ```
-* [ccache](https://ccache.samba.org/download.html)
 * Adobe Flash Player
 * Skype
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle)
@@ -341,6 +323,24 @@ sudo sysctl -w kern.maxfiles=20480
 
 reboot
 ```
+
+
+## bash conf
+* _bash_profile
+* _bash_rc
+  * git
+    + [git-prompt.sh](https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh)
+    + [git-completion.bash](https://github.com/git/git/blob/master/contrib/completion/git-completion.bash)
+* _bash_alias
+* _bash_local
+* _matplotlibrc
+* _reviewboardrc
+
+* [ghar](http://www.ifup.org/posts/ghar-managing-your-home-in-git/)
+* [laptop](https://github.com/thoughtbot/laptop)
+* [osx](https://github.com/philips/etc/blob/master/.osx)
+* [tmux](https://github.com/pivotal/tmux-config) [1](https://github.com/huntlyc/dotfiles/blob/master/.tmux.conf) [2](https://github.com/philips/etc/blob/master/.tmux.conf)
+
 
 ## Reference
 * [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles)
