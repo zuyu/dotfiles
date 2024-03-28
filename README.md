@@ -198,7 +198,7 @@ brew install ruby
 
 ## Software
 * Dropbox
-* 1password
+* [1password](https://app-updates.agilebits.com/)
 * [Brave](https://brave.com/download/)
 * Xcode
 
