@@ -95,6 +95,11 @@ brew install ruby
 * curl
 * wget
 * [neovim](https://neovim.io/)
+* [Alfred](https://www.alfredapp.com)
+
+  ```
+  brew install cask alfred
+  ```
 * jq
 * cmake
 * [ccache](https://ccache.samba.org/download.html)
@@ -150,11 +155,6 @@ brew install ruby
 
   ```
   brew install cask arq-cloud-backup
-  ```
-* [Alfred](https://www.alfredapp.com)
-
-  ```
-  brew install cask alfred
   ```
 * KeepingYouAwake
 
