@@ -206,6 +206,7 @@ brew install ruby
    sudo xcode-select -s /Applications/Xcode.app
    sudo xcodebuild -license accept
   ```
+* Visual Studio Code
 * [Quicksilver](https://qsapp.com/download.php)
 * [Anaconda](https://www.anaconda.com/download/#macos)
 * [CLion](https://www.jetbrains.com/clion/download/#section=mac)
@@ -237,7 +238,6 @@ brew install ruby
   ```
    java -version
   ```
-* Adobe Flash Player
 * Skype
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle)
 * Yed
