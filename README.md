@@ -6,7 +6,6 @@
 * _ssh
   * [github](https://help.github.com/articles/generating-ssh-keys/)
 * git conf
-
   ```
   git config --global user.name "My Name"
   git config --global user.email me@example.com
@@ -201,12 +200,15 @@ brew install ruby
 * [1password](https://app-updates.agilebits.com/)
 * [Brave](https://brave.com/download/)
 * Xcode
-
   ```
    sudo xcode-select -s /Applications/Xcode.app
    sudo xcodebuild -license accept
   ```
 * Visual Studio Code
+* [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app)
+  ```
+   ln -s ~/.vimrc ~/.ideavimrc
+  ```
 * [Quicksilver](https://qsapp.com/download.php)
 * [Anaconda](https://www.anaconda.com/download/#macos)
 * [CLion](https://www.jetbrains.com/clion/download/#section=mac)
@@ -244,7 +246,6 @@ brew install ruby
 * Sophos Anti-Virus
 * [Avira Anti-Virus](https://www.avira.com/en/free-antivirus-mac)
 * [TeXmacs](https://yinwang0.wordpress.com/2012/10/13/texmacs/)
-* [IntelliJ IDEA](http://www.jetbrains.com/idea/download/)
 * [WebStorm](https://www.jetbrains.com/webstorm/)
 * [Sublime Text](http://www.sublimetext.com)
 * [calibre](http://calibre-ebook.com/download)
