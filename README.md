@@ -25,10 +25,7 @@
 
 ## [vimrc](https://github.com/amix/vimrc#the-ultimate-vimrc)
 * _vim_runtime
-  * basic.vim
-  * extended.vim
-  * filetypes.vim
-  * local.vim
+  * my_configs.vim
 * [Maximum Awesome](https://github.com/square/maximum-awesome#maximum-awesome)
 * [Vundle](https://github.com/gmarik/Vundle.vim) plugins
   * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe/blob/master/README.md)
