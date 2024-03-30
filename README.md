@@ -24,8 +24,7 @@
   ```
 
 ## [vimrc](https://github.com/amix/vimrc#the-ultimate-vimrc)
-* _vim_runtime
-  * my_configs.vim
+* [_vim_runtime/my_configs.vim](https://github.com/zuyu/dotfiles/blob/master/_vim_runtime/my_configs.vim)
 * [Maximum Awesome](https://github.com/square/maximum-awesome#maximum-awesome)
 * [Vundle](https://github.com/gmarik/Vundle.vim) plugins
   * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe/blob/master/README.md)
