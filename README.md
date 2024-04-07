@@ -42,6 +42,17 @@
 ### Formatting
 * [rich](https://github.com/willmcgugan/rich)
 
+## Software
+* Dropbox
+* [1password](https://app-updates.agilebits.com/)
+* [Arc Browser](https://arc.net/)
+* [Brave](https://brave.com/download/)
+* Xcode
+  ```
+   sudo xcode-select -s /Applications/Xcode.app
+   sudo xcodebuild -license accept
+  ```
+
 ## [Homebrew](http://brew.sh)
   ```
 # Find things you can install with Homebrew
@@ -191,20 +202,18 @@ brew install ruby
 * [atosl](https://github.com/facebook/atosl)
 * qcachegrind
 
-## Software
-* Dropbox
-* [1password](https://app-updates.agilebits.com/)
-* [Brave](https://brave.com/download/)
-* Xcode
+## Software (Optional)
+* Java
+
   ```
-   sudo xcode-select -s /Applications/Xcode.app
-   sudo xcodebuild -license accept
+   java -version
   ```
 * Visual Studio Code
 * [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app)
   ```
    ln -s ~/.vimrc ~/.ideavimrc
   ```
+* [Snipaste](https://www.snipaste.com/download.html) substitutes [~~Snip~~](http://snip.qq.com)
 * [Quicksilver](https://qsapp.com/download.php)
 * [Anaconda](https://www.anaconda.com/download/#macos)
 * [CLion](https://www.jetbrains.com/clion/download/#section=mac)
@@ -218,7 +227,7 @@ brew install ruby
 * [SMART Utility](http://www.volitans-software.com/smart_utility.php)
 * [Seil](https://pqrs.org/osx/karabiner/seil.html.en), which could turn *caps lock* to **esc**
 * [MacVIM](https://github.com/b4winckler/macvim/wiki/Building)
-* [cpplint](http://google-styleguide.googlecode.com/svn/trunk/cpplint/cpplint.py)
+* [cpplint](https://github.com/cpplint/cpplint)
 * VirtualBox
 * Cisco AnyConnect VPN Client
 * [Sogou input method](http://pinyin.sogou.com/mac/)
@@ -229,13 +238,7 @@ brew install ruby
 * [XtraFinder](https://www.trankynam.com/xtrafinder/)
 * [Shortcat](https://shortcatapp.com/)
 * [Bartender](http://www.macbartender.com)
-* [Snipaste](https://www.snipaste.com/download.html) substitutes [~~Snip~~](http://snip.qq.com)
 * [go2shell](http://zipzapmac.com/Go2Shell)
-* Java
-
-  ```
-   java -version
-  ```
 * Skype
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle)
 * Yed
@@ -250,7 +253,6 @@ brew install ruby
 * Balsamiq Mockups
 * Mendeley
 * OpenAFS
-* MacTex
 * TextMate
 * [fswatch](http://blog.daanraman.com/coding/automatically-reload-chrome-when-editing-files-on-osx/)
 * [jekyll](http://derekwyatt.org/2014/01/01/moving-from-wordpress-to-github-pages.html)
@@ -261,6 +263,7 @@ brew install ruby
 
 ## [Chrome Extensions](https://chrome.google.com/webstore/category/apps)
 * [Blank New Tab Page](https://chrome.google.com/webstore/detail/blank-new-tab-page/jaadjnlkjnhohljficgoddcjmndjfdmi)
+* [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 * [Clockify Time Tracker](https://chrome.google.com/webstore/detail/clockify-time-tracker/pmjeegjhjdlccodhacdgbgfagbpmccpe)
 * [Mercury Reader](https://chrome.google.com/webstore/detail/mercury-reader/oknpjjbmpnndlpmnhmekjpocelpnlfdi)
 * [History AutoDelete](https://chrome.google.com/webstore/detail/history-autodelete/bhfakmaiadhflpjloimlagikhodjiefj)
