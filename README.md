@@ -106,13 +106,17 @@ brew install ruby
   ```
   brew install cask alfred
   ```
-* jq
+* OpenMP
+  ```
+  brew install libomp
+  ```
 * cmake
 * [ccache](https://ccache.samba.org/download.html)
 * autoconf
   ```
    cd command that learns (e.g. j proj will jump to ~/projects)
   ```
+* jq
 * automake
 * autojump
 * bison
