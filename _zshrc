@@ -120,6 +120,7 @@ alias gsu='git submodule sync --recursive && git submodule update --init --recur
 alias gx='gitx --all'
 alias got='git '
 alias get='git '
+alias gundo='git reset --soft HEAD^'
 
 # AWS
 function aws_login() {
