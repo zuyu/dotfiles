@@ -62,8 +62,11 @@ ch() {
 
 export CDPATH=.:~
 
+# brew
+export PATH=/opt/homebrew/bin:$PATH
 # brew analytics off
 export HOMEBREW_NO_ANALYTICS=1
+
 
 export HW_NCPU=`sysctl -n hw.ncpu`
 export MAKEFLAGS='-j $HW_NCPU'
