@@ -8,7 +8,7 @@
 * git conf
   ```
   git config --global user.name "My Name"
-  git config --global user.email me@example.com
+  git config --global user.email zuyu@users.noreply.github.com
   git config --global am.threeWay true
   git config --global branch.autosetuprebase always
   git config --global color.ui true
