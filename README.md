@@ -106,6 +106,11 @@ brew install ruby
   ```
   brew install cask alfred
   ```
+* [Raycast](https://www.raycast.com/)
+ 
+  ```
+  brew install --cask raycast
+  ```
 * OpenMP
   ```
   brew install libomp
