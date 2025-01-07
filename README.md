@@ -52,6 +52,7 @@
    sudo xcode-select -s /Applications/Xcode.app
    sudo xcodebuild -license accept
   ```
+* [Docker](https://docs.docker.com/desktop/setup/install/mac-install/)
 
 ## [Homebrew](http://brew.sh)
   ```
@@ -193,8 +194,6 @@ brew install ack
   ```
   brew install cask authy
   ```
-* docker
-* docker-machine
 * http-parser
 * Vagrant
 
