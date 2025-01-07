@@ -60,7 +60,7 @@ ch() {
   fzf --ansi --multi | sed 's#.*\(https*://\)#\1#' | xargs open
 }
 
-export CDPATH=.:~
+export CDPATH=.:~:~/workspace
 
 # brew
 export PATH=/opt/homebrew/bin:$PATH
