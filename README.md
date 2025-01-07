@@ -53,6 +53,10 @@
    sudo xcodebuild -license accept
   ```
 * [Docker](https://docs.docker.com/desktop/setup/install/mac-install/)
+* [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app)
+  ```
+   cp ~/.vimrc ~/.ideavimrc
+  ```
 
 ## [Homebrew](http://brew.sh)
   ```
@@ -226,14 +230,9 @@ brew install ack
    java -version
   ```
 * Visual Studio Code
-* [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app)
-  ```
-   ln -s ~/.vimrc ~/.ideavimrc
-  ```
 * [Snipaste](https://www.snipaste.com/download.html) substitutes [~~Snip~~](http://snip.qq.com)
 * [Quicksilver](https://qsapp.com/download.php)
 * [Anaconda](https://www.anaconda.com/download/#macos)
-* [CLion](https://www.jetbrains.com/clion/download/#section=mac)
 * [MacTex](https://www.tug.org/mactex/)
 * [Monodraw](https://monodraw.helftone.com), better w/ nsimsun font.
 * [Timing](http://timingapp.com/) keeps track of the time
