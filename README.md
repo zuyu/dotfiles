@@ -88,14 +88,16 @@ brew cleanup
 # Would you like to know more?
 man brew
 
-brew install ruby
+brew install ack
   ```
-* fd
-* the_silver_searcher
 * ack
   ```
    ack --dump
   ```
+* jq
+* htop
+* fd
+* the_silver_searcher
 * git
 * htop
 * curl
@@ -121,7 +123,7 @@ brew install ruby
   ```
    cd command that learns (e.g. j proj will jump to ~/projects)
   ```
-* jq
+
 * automake
 * autojump
 * bison
@@ -210,6 +212,13 @@ brew install ruby
 * ossp-uuid, aka libuuid
 * [atosl](https://github.com/facebook/atosl)
 * qcachegrind
+
+## SSH Setup
+[Generating a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+[Adding a new SSH key to your GitHub account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+
+[Testing your SSH connection](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection)
 
 ## Software (Optional)
 * Java
