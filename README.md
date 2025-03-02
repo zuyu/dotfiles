@@ -158,7 +158,7 @@ brew install ack
 
   ```
    brew install pyenv xz
-   python-build 3.6.8 ~/.runtimes/Python36
+   python-build 3.11.8 ~/.runtimes/Python3.11
   ```
 * [grpc](https://github.com/grpc/homebrew-grpc)
 
@@ -215,6 +215,11 @@ brew install ack
 * ossp-uuid, aka libuuid
 * [atosl](https://github.com/facebook/atosl)
 * qcachegrind
+* [Rectangle](https://github.com/rxhanson/Rectangle)
+
+  ```
+   brew install --cask rectangle
+  ```
 
 ## SSH Setup
 [Generating a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
