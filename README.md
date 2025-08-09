@@ -52,7 +52,6 @@
    sudo xcode-select -s /Applications/Xcode.app
    sudo xcodebuild -license accept
   ```
-* [Docker](https://docs.docker.com/desktop/setup/install/mac-install/)
 * [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app)
   ```
    cp ~/.vimrc ~/.ideavimrc
@@ -107,6 +106,7 @@ brew install ack
 * htop
 * curl
 * wget
+* [orbstack](https://orbstack.dev/download) that replaces [Docker](https://docs.docker.com/desktop/setup/install/mac-install/)
 * [neovim](https://neovim.io/)
 * [Alfred](https://www.alfredapp.com)
 
