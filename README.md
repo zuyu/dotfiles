@@ -237,6 +237,7 @@ brew install ack
   ```
 * Visual Studio Code
 * [Snipaste](https://www.snipaste.com/download.html) substitutes [~~Snip~~](http://snip.qq.com)
+* [Proxyman](https://proxyman.com/)
 * [Quicksilver](https://qsapp.com/download.php)
 * [Anaconda](https://www.anaconda.com/download/#macos)
 * [MacTex](https://www.tug.org/mactex/)
