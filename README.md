@@ -21,6 +21,8 @@
   git config --global init.defaultBranch <name>
   git config --global http.postBuffer 524288000  // Fix " Unable to rewind rpc post data - try increasing http.postBuffer "
   git config --list
+
+  git config feature.manyFiles 1
   ```
 
 ## [vimrc](https://github.com/amix/vimrc#the-ultimate-vimrc)
