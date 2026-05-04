@@ -105,7 +105,6 @@ brew install ack
 * fd
 * the_silver_searcher
 * git
-* htop
 * curl
 * wget
 * [orbstack](https://orbstack.dev/download) that replaces [Docker](https://docs.docker.com/desktop/setup/install/mac-install)
