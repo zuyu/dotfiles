@@ -107,6 +107,7 @@ brew install ack
 * git
 * curl
 * wget
+* readline
 * [orbstack](https://orbstack.dev/download) that replaces [Docker](https://docs.docker.com/desktop/setup/install/mac-install)
 * [zed](https://zed.dev)
 * [neovim](https://neovim.io)
