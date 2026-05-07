@@ -115,6 +115,16 @@ brew install ack
   ```
   brew install cask alfred
   ```
+* [Snipaste](https://www.snipaste.com/download.html) substitutes [~~Snip~~](http://snip.qq.com)
+ 
+  ```
+  brew install --cask snipaste
+  ```
+* [MacTex](https://www.tug.org/mactex/)
+  
+  ```
+  brew install --cask mactex
+  ```
 * [Raycast](https://www.raycast.com/)
  
   ```
@@ -237,11 +247,9 @@ brew install ack
    java -version
   ```
 * Visual Studio Code
-* [Snipaste](https://www.snipaste.com/download.html) substitutes [~~Snip~~](http://snip.qq.com)
 * [Proxyman](https://proxyman.com/)
 * [Quicksilver](https://qsapp.com/download.php)
 * [Anaconda](https://www.anaconda.com/download/#macos)
-* [MacTex](https://www.tug.org/mactex/)
 * [Monodraw](https://monodraw.helftone.com), better w/ nsimsun font.
 * [Timing](http://timingapp.com/) keeps track of the time
 * [Tomighty](http://www.tomighty.org/): a free desktop timer for the Pomodoro Technique
