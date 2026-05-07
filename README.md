@@ -116,6 +116,11 @@ brew install ack
   ```
   brew install cask alfred
   ```
+* [Obsidian](https://obsidian.md)
+
+  ```
+  brew install --cask obsidian
+  ```
 * [Snipaste](https://www.snipaste.com/download.html) substitutes [~~Snip~~](http://snip.qq.com)
  
   ```
