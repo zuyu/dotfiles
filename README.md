@@ -35,7 +35,7 @@
 
 ## [Tabby](https://tabby.sh)
 
-## [iTerm](http://iterm2.com)
+## [iTerm2](http://iterm2.com)
 ### [colorscheme](http://iterm2colorschemes.com)
 * [Material Design Colors](https://raw.githubusercontent.com/MartinSeeler/iterm2-material-design/master/material-design-colors.itermcolors)
 * [Novel](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Novel.itermcolors)
@@ -125,6 +125,11 @@ brew install ack
  
   ```
   brew install --cask snipaste
+  ```
+* [Ghostty](https://ghostty.org/)
+
+  ```
+  brew install --cask ghostty
   ```
 * [MacTex](https://www.tug.org/mactex/)
   
