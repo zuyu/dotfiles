@@ -109,8 +109,6 @@ brew install ack
 * wget
 * readline
 * [orbstack](https://orbstack.dev/download) that replaces [Docker](https://docs.docker.com/desktop/setup/install/mac-install)
-* [zed](https://zed.dev)
-* [neovim](https://neovim.io)
 * [Alfred](https://www.alfredapp.com)
 
   ```
@@ -126,6 +124,10 @@ brew install ack
   ```
   brew install --cask snipaste
   ```
+
+* [chezmol](https://www.chezmoi.io)
+* [zed](https://zed.dev)
+* [neovim](https://neovim.io)
 * [Ghostty](https://ghostty.org/)
 
   ```
