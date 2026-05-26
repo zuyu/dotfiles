@@ -108,6 +108,7 @@ brew install ack
 * curl
 * wget
 * readline
+* node
 * [orbstack](https://orbstack.dev/download) that replaces [Docker](https://docs.docker.com/desktop/setup/install/mac-install)
 * [Alfred](https://www.alfredapp.com)
 
@@ -248,6 +249,14 @@ brew install ack
 
   ```
    brew install --cask rectangle
+  ```
+
+## npm
+
+* [bb-browser](https://github.com/epiral/bb-browser)
+
+  ```
+  npm install -g bb-browser
   ```
 
 ## SSH Setup
