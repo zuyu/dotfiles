@@ -60,6 +60,9 @@
   ```
 
 ## [Homebrew](http://brew.sh)
+<details>
+<summary>`brew` usages</summary>
+
   ```
 # Find things you can install with Homebrew
 brew search <formula name or substring>
@@ -96,6 +99,8 @@ man brew
 
 brew install ack
   ```
+</details>
+
 * ack
   ```
    ack --dump
@@ -143,6 +148,10 @@ brew install ack
   ```
   brew install --cask mactex
   ```
+
+<details>
+<summary>brew packages (optional)</summary>
+
 * [Raycast](https://www.raycast.com/)
  
   ```
@@ -250,6 +259,7 @@ brew install ack
   ```
    brew install --cask rectangle
   ```
+</details>  
 
 ## npm
 
