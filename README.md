@@ -46,9 +46,8 @@
 
 ## Software
 * Dropbox
-* [1password](https://app-updates.agilebits.com/)
-* [Arc Browser](https://arc.net/)
-* [Brave](https://brave.com/download/)
+* [1password](https://app-updates.agilebits.com)
+* [Brave](https://brave.com/download)
 * Xcode
   ```
    sudo xcode-select -s /Applications/Xcode.app
