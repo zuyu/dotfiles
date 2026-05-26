@@ -54,6 +54,7 @@
    sudo xcode-select -s /Applications/Xcode.app
    sudo xcodebuild -license accept
   ```
+* [OpenChamber](https://openchamber.dev/download)
 * [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app)
   ```
    cp ~/.vimrc ~/.ideavimrc
@@ -124,7 +125,11 @@ brew install ack
   ```
   brew install --cask snipaste
   ```
+* [opencode](https://opencode.ai)
 
+  ```
+  brew install anomalyco/tap/opencode
+  ```
 * [chezmol](https://www.chezmoi.io)
 * [zed](https://zed.dev)
 * [neovim](https://neovim.io)
