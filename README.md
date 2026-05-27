@@ -263,6 +263,11 @@ brew install ack
 
 ## npm
 
+* [codegraph](https://github.com/colbymchenry/codegraph)
+
+  ```
+  npm i -g @colbymchenry/codegraph
+  ```
 * [bb-browser](https://github.com/epiral/bb-browser)
 
   ```
