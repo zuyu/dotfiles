@@ -137,21 +137,26 @@ brew install ack
   ```
 * [chezmol](https://www.chezmoi.io)
 * [zed](https://zed.dev)
+* [MacTex](https://www.tug.org/mactex/)
+  
+  ```
+  brew install --cask mactex
+  ```
+* [sag](https://github.com/steipete/sag)
+
+  ```
+  brew install steipete/tap/sag
+  ```
+
+<details>
+<summary>brew packages (optional)</summary>
+
 * [neovim](https://neovim.io)
 * [Ghostty](https://ghostty.org/)
 
   ```
   brew install --cask ghostty
   ```
-* [MacTex](https://www.tug.org/mactex/)
-  
-  ```
-  brew install --cask mactex
-  ```
-
-<details>
-<summary>brew packages (optional)</summary>
-
 * [Raycast](https://www.raycast.com/)
  
   ```
