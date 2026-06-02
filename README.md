@@ -125,6 +125,7 @@ brew install ack
   ```
   brew install --cask obsidian
   ```
+* [summarize](https://summarize.sh)
 * [Snipaste](https://www.snipaste.com/download.html) substitutes [~~Snip~~](http://snip.qq.com)
  
   ```
