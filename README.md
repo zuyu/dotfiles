@@ -341,6 +341,7 @@ brew install ack
 * [Beyond Compare](https://www.scootersoftware.com/download.php)
 
 ## [Chrome Extensions](https://chrome.google.com/webstore/category/apps)
+* [WebRTC Control](https://chromewebstore.google.com/detail/webrtc-control/fjkmabmdepjfammlpliljpnbhleegehm)
 * [Blank New Tab Page](https://chrome.google.com/webstore/detail/blank-new-tab-page/jaadjnlkjnhohljficgoddcjmndjfdmi)
 * [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 * [Clockify Time Tracker](https://chrome.google.com/webstore/detail/clockify-time-tracker/pmjeegjhjdlccodhacdgbgfagbpmccpe)
