@@ -114,11 +114,16 @@ brew install ack
 * wget
 * readline
 * node
+* codex-app
+
+  ```
+  brew install --cask codex-app
+  ```
 * [orbstack](https://orbstack.dev/download) that replaces [Docker](https://docs.docker.com/desktop/setup/install/mac-install)
 * [Alfred](https://www.alfredapp.com)
 
   ```
-  brew install cask alfred
+  brew install --cask alfred
   ```
 * [Obsidian](https://obsidian.md)
 
