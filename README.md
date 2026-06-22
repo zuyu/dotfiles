@@ -48,6 +48,7 @@
 * Dropbox
 * [1password](https://app-updates.agilebits.com)
 * [Brave](https://brave.com/download)
+* [Vivaldi](https://vivaldi.com/download)
 * Xcode
   ```
    sudo xcode-select -s /Applications/Xcode.app
@@ -347,6 +348,7 @@ brew install ack
 
 ## [Chrome Extensions](https://chrome.google.com/webstore/category/apps)
 * [iCloud Passwords](https://chromewebstore.google.com/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj)
+* [webink.app](https://chromewebstore.google.com/detail/lhifbnmampdmdadbhpeeoikkljhiaohn)
 * [WebRTC Network Limiter](https://chromewebstore.google.com/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia)
 * [WebRTC Leak Prevent](https://chromewebstore.google.com/detail/webrtc-leak-prevent/eiadekoaikejlgdbkbdfeijglgfdalml)
 * [WebRTC Control](https://chromewebstore.google.com/detail/webrtc-control/fjkmabmdepjfammlpliljpnbhleegehm)
