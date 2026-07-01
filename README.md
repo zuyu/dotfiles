@@ -99,8 +99,6 @@ brew cleanup
 
 # Would you like to know more?
 man brew
-
-brew install ack
   ```
 </details>
 
@@ -115,6 +113,11 @@ brew install ack
 * git
 * curl
 * wget
+* [Snipaste](https://www.snipaste.com/download.html) substitutes [~~Snip~~](http://snip.qq.com)
+ 
+  ```
+  brew install --cask snipaste
+  ```
 * readline
 * node
 * codex-app
@@ -122,6 +125,7 @@ brew install ack
   ```
   brew install --cask codex-app
   ```
+* fnm
 * [orbstack](https://orbstack.dev/download) that replaces [Docker](https://docs.docker.com/desktop/setup/install/mac-install)
 * [Alfred](https://www.alfredapp.com)
 
@@ -134,11 +138,6 @@ brew install ack
   brew install --cask obsidian
   ```
 * [summarize](https://summarize.sh)
-* [Snipaste](https://www.snipaste.com/download.html) substitutes [~~Snip~~](http://snip.qq.com)
- 
-  ```
-  brew install --cask snipaste
-  ```
 * [opencode](https://opencode.ai)
 
   ```
