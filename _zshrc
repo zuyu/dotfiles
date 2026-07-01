@@ -150,3 +150,6 @@ function docker_cleanup() {
 }
 
 alias l_kernels='dpkg --list | grep linux-image | grep ii'
+
+# https://github.com/Schniz/fnm#shell-setup
+eval "$(fnm env --use-on-cd --shell zsh)"
