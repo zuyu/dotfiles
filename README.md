@@ -9,20 +9,22 @@
   ```
   git config --global user.name "My Name"
   git config --global user.email zuyu@users.noreply.github.com
+  git config --global pull.rebase true
+  git config --global push.useForceIfIncludes true
+  
   git config --global am.threeWay true
   git config --global branch.autosetuprebase always
   git config --global color.ui true
   git config --global core.editor vim
   git config --global diff.renames true
-  git config --global pull.rebase true
   git config --global push.default matching
-  git config --global rebase.autosquash true
   git config --global status.submoduleSummary true
   git config --global init.defaultBranch <name>
   git config --global http.postBuffer 524288000  // Fix " Unable to rewind rpc post data - try increasing http.postBuffer "
   git config --list
 
   git config feature.manyFiles 1
+  git config --global rebase.autosquash true
   ```
 
 ## [vimrc](https://github.com/amix/vimrc#the-ultimate-vimrc)
