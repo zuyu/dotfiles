@@ -118,15 +118,6 @@ man brew
   ```
   brew install --cask snipaste
   ```
-* readline
-* node
-* codex-app
-
-  ```
-  brew install --cask codex-app
-  ```
-* fnm
-* [orbstack](https://orbstack.dev/download) that replaces [Docker](https://docs.docker.com/desktop/setup/install/mac-install)
 * [Alfred](https://www.alfredapp.com)
 
   ```
@@ -137,7 +128,18 @@ man brew
   ```
   brew install --cask obsidian
   ```
+* readline
+* node
+* pnpm
+* fnm
+* [orbstack](https://orbstack.dev/download) that replaces [Docker](https://docs.docker.com/desktop/setup/install/mac-install)
+
 * [summarize](https://summarize.sh)
+* codex-app
+
+  ```
+  brew install --cask codex-app
+  ```
 * [opencode](https://opencode.ai)
 
   ```
