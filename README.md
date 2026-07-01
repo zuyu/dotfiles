@@ -161,6 +161,11 @@ man brew
 <details>
 <summary>brew packages (optional)</summary>
 
+* [xurl](https://github.com/xdevplatform/xurl)
+
+  ```
+  brew install --cask xdevplatform/tap/xurl
+  ```
 * [neovim](https://neovim.io)
 * [Ghostty](https://ghostty.org/)
 
