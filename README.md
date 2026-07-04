@@ -102,9 +102,9 @@ man brew
   ```
 </details>
 
-* ack
+* [ripgrep](https://github.com/BurntSushi/ripgrep)
   ```
-   ack --dump
+   rg --typelist
   ```
 * jq
 * htop
