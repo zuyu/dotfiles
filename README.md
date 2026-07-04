@@ -106,6 +106,7 @@ man brew
   ```
    rg --typelist
   ```
+* curl
 * jq
 * htop
 * fd
