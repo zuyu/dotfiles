@@ -133,6 +133,12 @@ man brew
 * node
 * pnpm
 * fnm
+* [dory](https://github.com/Augani/dory)
+
+  ```
+  brew install container
+  brew install --cask Augani/dory/dory
+  ```
 * [orbstack](https://orbstack.dev/download) that replaces [Docker](https://docs.docker.com/desktop/setup/install/mac-install)
 
 * [summarize](https://summarize.sh)
