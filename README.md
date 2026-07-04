@@ -133,6 +133,11 @@ man brew
 * node
 * pnpm
 * fnm
+* [Proxyman](https://github.com/proxymanapp/proxyman)
+
+  ```
+  brew install --cask proxyman
+  ```
 * [dory](https://github.com/Augani/dory)
 
   ```
@@ -310,7 +315,6 @@ man brew
    java -version
   ```
 * Visual Studio Code
-* [Proxyman](https://proxyman.com/)
 * [Quicksilver](https://qsapp.com/download.php)
 * [Anaconda](https://www.anaconda.com/download/#macos)
 * [Monodraw](https://monodraw.helftone.com), better w/ nsimsun font.
