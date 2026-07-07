@@ -138,6 +138,10 @@ man brew
 * [mole](https://github.com/tw93/Mole)
 * node
 * pnpm
+  
+  ```
+  pnpm setup
+  ```
 * fnm
 * [Proxyman](https://github.com/proxymanapp/proxyman)
 
