@@ -47,6 +47,7 @@
 * [rich](https://github.com/willmcgugan/rich)
 
 ## Software
+* [DeepSeek on macOS](https://github.com/tw93/Pake/releases/latest/download/DeepSeek.dmg)
 * Dropbox
 * [1password](https://app-updates.agilebits.com)
 * [Brave](https://brave.com/download)
@@ -127,6 +128,11 @@ man brew
 
   ```
   brew install --cask obsidian
+  ```
+* [miaoyan](https://github.com/tw93/MiaoYan)
+
+  ```
+  brew install --cask miaoyan
   ```
 * readline
 * [mole](https://github.com/tw93/Mole)
