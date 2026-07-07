@@ -110,7 +110,6 @@ man brew
 * jq
 * htop
 * fd
-* the_silver_searcher
 * git
 * curl
 * wget
@@ -130,6 +129,7 @@ man brew
   brew install --cask obsidian
   ```
 * readline
+* [mole](https://github.com/tw93/Mole)
 * node
 * pnpm
 * fnm
@@ -173,6 +173,7 @@ man brew
 <details>
 <summary>brew packages (optional)</summary>
 
+* the_silver_searcher
 * [xurl](https://github.com/xdevplatform/xurl)
 
   ```
