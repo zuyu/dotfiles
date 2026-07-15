@@ -57,6 +57,7 @@
    sudo xcode-select -s /Applications/Xcode.app
    sudo xcodebuild -license accept
   ```
+* [Reflect](https://github.com/team-reflect/reflect-open#install)
 * [OpenChamber](https://openchamber.dev/download)
 * [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app)
   ```
