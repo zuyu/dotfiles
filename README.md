@@ -149,6 +149,12 @@ man brew
   ```
   brew install --cask proxyman
   ```
+* [Nomad](https://github.com/hashicorp/nomad)
+  
+  ```
+  brew tap hashicorp/tap
+  brew install hashicorp/tap/nomad
+  ```
 * [dory](https://github.com/Augani/dory)
 
   ```
