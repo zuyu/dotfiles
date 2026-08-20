@@ -1,10 +1,10 @@
 # dotfiles
 
 ## zsh conf
-* [_zshrc](https://github.com/zuyu/dotfiles/blob/master/_zshrc)
+* [_zshrc](https://github.com/zuyu/dotfiles/blob/main/_zshrc)
 * _zshenv
 * _ssh
-  * [github](https://help.github.com/articles/generating-ssh-keys/)
+  * [github](https://help.github.com/articles/generating-ssh-keys)
 * git conf
   ```
   git config --global user.name "My Name"
@@ -28,7 +28,7 @@
   ```
 
 ## [vimrc](https://github.com/amix/vimrc#the-ultimate-vimrc)
-* [_vim_runtime/my_configs.vim](https://github.com/zuyu/dotfiles/blob/master/_vim_runtime/my_configs.vim)
+* [_vim_runtime/my_configs.vim](https://github.com/zuyu/dotfiles/blob/main/_vim_runtime/my_configs.vim)
 * [Maximum Awesome](https://github.com/square/maximum-awesome#maximum-awesome)
 * [Vundle](https://github.com/gmarik/Vundle.vim) plugins
   * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe/blob/master/README.md)
@@ -176,7 +176,7 @@ man brew
   ```
 * [chezmol](https://www.chezmoi.io)
 * [zed](https://zed.dev)
-* [MacTex](https://www.tug.org/mactex/)
+* [MacTex](https://www.tug.org/mactex)
   
   ```
   brew install --cask mactex
@@ -197,12 +197,12 @@ man brew
   brew install --cask xdevplatform/tap/xurl
   ```
 * [neovim](https://neovim.io)
-* [Ghostty](https://ghostty.org/)
+* [Ghostty](https://ghostty.org)
 
   ```
   brew install --cask ghostty
   ```
-* [Raycast](https://www.raycast.com/)
+* [Raycast](https://www.raycast.com)
  
   ```
   brew install --cask raycast
@@ -257,7 +257,7 @@ man brew
   ```
 * graphviz
 * boost
-* [brew-cask](https://formulae.brew.sh/cask/)
+* [brew-cask](https://formulae.brew.sh/cask)
 
   ```
    brew install cask
@@ -272,7 +272,7 @@ man brew
   ```
   brew install cask keepingyouawake
   ```
-* [MTMR](https://mtmr.app/)
+* [MTMR](https://mtmr.app)
 
   ```
   brew install cask mtmr
@@ -299,7 +299,7 @@ man brew
 * go
 * maven
 * mercurial
-* [osquery](http://osquery.io/)
+* [osquery](http://osquery.io)
 * pkg-config
 * ossp-uuid, aka libuuid
 * [atosl](https://github.com/facebook/atosl)
@@ -336,8 +336,8 @@ man brew
 * [Quicksilver](https://qsapp.com/download.php)
 * [Anaconda](https://www.anaconda.com/download/#macos)
 * [Monodraw](https://monodraw.helftone.com), better w/ nsimsun font.
-* [Timing](http://timingapp.com/) keeps track of the time
-* [Tomighty](http://www.tomighty.org/): a free desktop timer for the Pomodoro Technique
+* [Timing](http://timingapp.com) keeps track of the time
+* [Tomighty](http://www.tomighty.org): a free desktop timer for the Pomodoro Technique
 * [GnuPG](https://gpgtools.org)
 * [SourceTree](https://www.sourcetreeapp.com)
 * [tarsnap](https://www.tarsnap.com/download.html) and its [configurations](http://www.daemonology.net/blog/2009-06-11-cryptographic-right-answers.html)
@@ -347,13 +347,13 @@ man brew
 * [cpplint](https://github.com/cpplint/cpplint)
 * VirtualBox
 * Cisco AnyConnect VPN Client
-* [Sogou input method](http://pinyin.sogou.com/mac/)
+* [Sogou input method](http://pinyin.sogou.com/mac)
 * [Fantastical 2](https://flexibits.com/fantastical)
-* [SizeUp](http://www.irradiatedsoftware.com/sizeup/)
+* [SizeUp](http://www.irradiatedsoftware.com/sizeup)
 * [Manico](http://manico.im)
-* [PopClip](http://pilotmoon.com/popclip/)
-* [XtraFinder](https://www.trankynam.com/xtrafinder/)
-* [Shortcat](https://shortcatapp.com/)
+* [PopClip](http://pilotmoon.com/popclip)
+* [XtraFinder](https://www.trankynam.com/xtrafinder)
+* [Shortcat](https://shortcatapp.com)
 * [Bartender](http://www.macbartender.com)
 * [go2shell](http://zipzapmac.com/Go2Shell)
 * Skype
@@ -361,8 +361,8 @@ man brew
 * Yed
 * Sophos Anti-Virus
 * [Avira Anti-Virus](https://www.avira.com/en/free-antivirus-mac)
-* [TeXmacs](https://yinwang0.wordpress.com/2012/10/13/texmacs/)
-* [WebStorm](https://www.jetbrains.com/webstorm/)
+* [TeXmacs](https://yinwang0.wordpress.com/2012/10/13/texmacs)
+* [WebStorm](https://www.jetbrains.com/webstorm)
 * [Sublime Text](http://www.sublimetext.com)
 * [calibre](http://calibre-ebook.com/download)
 * [Atom](https://atom.io)
@@ -371,10 +371,10 @@ man brew
 * Mendeley
 * OpenAFS
 * TextMate
-* [fswatch](http://blog.daanraman.com/coding/automatically-reload-chrome-when-editing-files-on-osx/)
+* [fswatch](http://blog.daanraman.com/coding/automatically-reload-chrome-when-editing-files-on-osx)
 * [jekyll](http://derekwyatt.org/2014/01/01/moving-from-wordpress-to-github-pages.html)
-* [Mou](http://25.io/mou/)
-* [Surge](https://nssurge.com/)
+* [Mou](http://25.io/mou)
+* [Surge](https://nssurge.com)
 * OverDrive
 * [Beyond Compare](https://www.scootersoftware.com/download.php)
 
@@ -398,7 +398,7 @@ man brew
 * [Google Sheets](https://chrome.google.com/webstore/detail/felcaaldnbdncclmgdcncolpebgiejap)
 * [Google Slides](https://chrome.google.com/webstore/detail/aapocclcgogkmnckokdopfmhonfmgoek)
 * [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
-* [Project Naptha](http://projectnaptha.com/) to Capture Text From Images
+* [Project Naptha](http://projectnaptha.com) to Capture Text From Images
 * [JSONView](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc)
 * [ShipGenius](https://chrome.google.com/webstore/detail/ekejkhnkppgbldboejcbcejjjamkpooa)
 * [SshInAWin](https://chrome.google.com/webstore/detail/sshinawin/npcpnahjfihkilahpohiieimoffneflm)
@@ -408,7 +408,7 @@ man brew
 * uProxy
 
 ## Misc conf
-* [TabNine](https://www.tabnine.com/)
+* [TabNine](https://www.tabnine.com)
 * [TouchID for password prompts](https://dev.to/thamaraiselvam/how-to-allow-touch-id-to-authenticate-for-sudo-commands-on-mac-2a68)
 * hostname
 
@@ -459,7 +459,7 @@ reboot
 * _matplotlibrc
 * _reviewboardrc
 
-* [ghar](http://www.ifup.org/posts/ghar-managing-your-home-in-git/)
+* [ghar](http://www.ifup.org/posts/ghar-managing-your-home-in-git)
 * [laptop](https://github.com/thoughtbot/laptop)
 * [osx](https://github.com/philips/etc/blob/master/.osx)
 * [tmux](https://github.com/pivotal/tmux-config) [1](https://github.com/huntlyc/dotfiles/blob/master/.tmux.conf) [2](https://github.com/philips/etc/blob/master/.tmux.conf)
@@ -471,7 +471,7 @@ reboot
 * [Hacker's Guide to Setting up Your Mac](http://lapwinglabs.com/blog/hacker-guide-to-setting-up-your-mac)
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md#awesome-mac)
 * [Mac Keyboard Shortcuts](https://support.apple.com/en-us/HT201236)
-* [Chrome configuration](https://www.xaprb.com/blog/configuring-chrome-for-privacy-and-convenience/)
+* [Chrome configuration](https://www.xaprb.com/blog/configuring-chrome-for-privacy-and-convenience)
 * [github/haccks - step-by-step tutorial](https://github.com/haccks/zsh-config)
 * [github/bhilburn - Show off your config](https://github.com/bhilburn/powerlevel9k/wiki/Show-Off-Your-Config)
 * [github/jondot - Awesome DevEnv](https://github.com/jondot/awesome-devenv)
