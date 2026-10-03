@@ -104,7 +104,7 @@ man brew
   ```
 </details>
 
-* [ripgrep](https://github.com/BurntSushi/ripgrep) ([vs alternatives](https://beyondgrep.com/feature-comparison))
+* [ripgrep](https://github.com/BurntSushi/ripgrep) ([vs alternatives, i.e., ack](https://beyondgrep.com/feature-comparison))
   ```
    rg --typelist
   ```
