@@ -120,6 +120,11 @@ man brew
   ```
   brew install --cask snipaste
   ```
+* [vorssaint](https://vorssaint.com)
+
+  ```
+  brew install --cask vorssaint
+  ```
 * [Alfred](https://www.alfredapp.com)
 
   ```
