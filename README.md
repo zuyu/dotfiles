@@ -47,10 +47,11 @@
 * [rich](https://github.com/willmcgugan/rich)
 
 ## Software
+* [Brave](https://brave.com/download)
+* [Shottr](https://shottr.cc)
 * [DeepSeek on macOS](https://github.com/tw93/Pake/releases/latest/download/DeepSeek.dmg)
 * Dropbox
 * [1password](https://app-updates.agilebits.com)
-* [Brave](https://brave.com/download)
 * [Vivaldi](https://vivaldi.com/download)
 * Xcode
   ```
@@ -190,6 +191,11 @@ man brew
 
   ```
   brew install steipete/tap/sag
+  ```
+* [uPic](https://github.com/gee1k/uPic)
+
+  ```
+  brew install bigwig-club/brew/upic --cask
   ```
 
 <details>
