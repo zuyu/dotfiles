@@ -58,6 +58,7 @@
    sudo xcode-select -s /Applications/Xcode.app
    sudo xcodebuild -license accept
   ```
+* [AyuGram](https://github.com/AyuGram/AyuGramDesktop)
 * [Reflect](https://github.com/team-reflect/reflect-open#install)
 * [OpenChamber](https://openchamber.dev/download)
 * [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app)
