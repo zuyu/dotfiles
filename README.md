@@ -52,7 +52,7 @@
 * [DeepSeek on macOS](https://github.com/tw93/Pake/releases/latest/download/DeepSeek.dmg)
 * Dropbox
 * [1password](https://app-updates.agilebits.com)
-* [Vivaldi](https://vivaldi.com/download)
+* [Helium](https://helium.computer)
 * Xcode
   ```
    sudo xcode-select -s /Applications/Xcode.app
